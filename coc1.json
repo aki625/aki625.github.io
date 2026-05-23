@@ -1,0 +1,352 @@
+[
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the short title of Republic Act No. 6713?",
+    "options": ["Anti-Graft and Corrupt Practices Act", "Code of Conduct and Ethical Standards for Public Officials and Employees", "Ombudsman Act", "Civil Service Act"],
+    "answer": 1,
+    "explanation": "RA 6713 is officially titled 'Code of Conduct and Ethical Standards for Public Officials and Employees'."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which of the following is NOT a norm of conduct under RA 6713?",
+    "options": ["Commitment to public interest", "Professionalism", "Political partisanship", "Justness and sincerity"],
+    "answer": 2,
+    "explanation": "Public officials must be apolitical. Political partisanship is not a norm under RA 6713."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must serve with the highest degree of:",
+    "options": ["Efficiency and loyalty", "Responsibility, integrity, loyalty and efficiency", "Honesty and courtesy", "Patriotism and nationalism"],
+    "answer": 1,
+    "explanation": "Section 4 of RA 6713 states that public officials shall serve with responsibility, integrity, loyalty, and efficiency."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which act is prohibited for public officials under RA 6713?",
+    "options": ["Attending training seminars", "Receiving gifts from a client in exchange for a favor", "Submitting SALN on time", "Declaring assets truthfully"],
+    "answer": 1,
+    "explanation": "Receiving gifts in exchange for a favor constitutes bribery and is prohibited."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What does SALN stand for?",
+    "options": ["Statement of Assets, Liabilities and Net Worth", "Statement of Annual Liabilities and Net Worth", "Salary and Allowance Net Worth", "Statement of Assets, Loans and Net Worth"],
+    "answer": 0,
+    "explanation": "SALN is the Statement of Assets, Liabilities and Net Worth required annually from public officials."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "When should a public official file their SALN?",
+    "options": ["Every 5 years", "Within 30 days after assumption and annually thereafter", "Only upon retirement", "Every election year"],
+    "answer": 1,
+    "explanation": "SALN must be filed within 30 days of assumption, annually on April 30, and within 30 days of separation."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which value requires public officials to avoid nepotism?",
+    "options": ["Commitment to public interest", "Justness and sincerity", "Professionalism", "Nationalism and patriotism"],
+    "answer": 1,
+    "explanation": "Justness and sincerity requires public officials to avoid nepotism, favoritism, and discrimination."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must act with propriety at all times. This refers to:",
+    "options": ["Professionalism", "Commitment to public interest", "Propriety", "Responsiveness"],
+    "answer": 2,
+    "explanation": "Propriety means acting with decency and avoiding conduct that discredits the government."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which of the following is considered simple misconduct?",
+    "options": ["Graft and corruption", "Unexcused absence from duty", "Bribery", "Dishonesty"],
+    "answer": 1,
+    "explanation": "Unexcused absence or tardiness is classified as simple misconduct under civil service rules."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must provide prompt, courteous, and adequate service. This is called:",
+    "options": ["Responsiveness to the public", "Professionalism", "Political neutrality", "Commitment to democracy"],
+    "answer": 0,
+    "explanation": "Responsiveness to the public means acting promptly and courteously to public requests."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which of the following is NOT allowed as a gift?",
+    "options": ["Gift of nominal value from a family member", "Gift from a client seeking a favor", "Token from a foreign government with approval", "Plaque of appreciation"],
+    "answer": 1,
+    "explanation": "Gifts from persons seeking favor are prohibited to avoid conflict of interest."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the penalty for failure to file SALN without justifiable reason?",
+    "options": ["Reprimand only", "Suspension or dismissal", "Fine of ₱1,000", "No penalty"],
+    "answer": 1,
+    "explanation": "Failure to file SALN is punishable by suspension or dismissal under RA 6713."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which norm requires public officials to uphold the Constitution and obey laws?",
+    "options": ["Commitment to public interest", "Nationalism and patriotism", "Commitment to democracy", "Professionalism"],
+    "answer": 2,
+    "explanation": "Commitment to democracy means upholding the Constitution and obeying laws and legal orders."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must not use their position for private gain. This is called:",
+    "options": ["Conflict of interest", "Professionalism", "Nepotism", "Political neutrality"],
+    "answer": 0,
+    "explanation": "Conflict of interest arises when personal interest conflicts with public duty."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which agency has jurisdiction over administrative cases involving public officials?",
+    "options": ["COMELEC", "Civil Service Commission", "Supreme Court", "Senate"],
+    "answer": 1,
+    "explanation": "The Civil Service Commission handles administrative disciplinary cases."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the purpose of the Code of Conduct under RA 6713?",
+    "options": ["To increase salaries", "To promote high standards of ethics in public service", "To limit government powers", "To regulate elections"],
+    "answer": 1,
+    "explanation": "RA 6713 aims to promote high standards of ethics and uphold public trust."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which act is considered grave misconduct?",
+    "options": ["Tardiness", "Discourtesy", "Dishonesty", "Neglect of duty"],
+    "answer": 2,
+    "explanation": "Dishonesty is classified as grave misconduct, punishable by dismissal."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must not engage in partisan political activities during office hours. This reflects:",
+    "options": ["Professionalism", "Political neutrality", "Nationalism", "Responsiveness"],
+    "answer": 1,
+    "explanation": "Political neutrality requires officials to be non-partisan in public service."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which document must public officials submit to declare business interests?",
+    "options": ["IPR", "SALN", "DTR", "PDS"],
+    "answer": 0,
+    "explanation": "IPR or Statement of Assets, Liabilities and Business Interests is part of SALN."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the standard for public service under RA 6713?",
+    "options": ["Mediocrity", "Excellence and efficiency", "Speed only", "Popularity"],
+    "answer": 1,
+    "explanation": "Public service must be rendered with excellence, efficiency, and integrity."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which of the following is an example of conduct prejudicial to the best interest of the service?",
+    "options": ["Working overtime", "Gossiping about colleagues", "Unauthorized disclosure of official information", "Attending seminars"],
+    "answer": 2,
+    "explanation": "Unauthorized disclosure of confidential information prejudices public service."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must be truthful in their dealings. This is part of:",
+    "options": ["Professionalism", "Justness and sincerity", "Commitment to public interest", "Nationalism"],
+    "answer": 1,
+    "explanation": "Justness and sincerity requires truthfulness and honesty in all transactions."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which is NOT a prohibited act under RA 6713?",
+    "options": ["Engaging in private business with conflict of interest", "Receiving a loan from a subordinate", "Attending a government training", "Using government property for personal use"],
+    "answer": 2,
+    "explanation": "Attending government training is allowed and encouraged for professional development."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the deadline for filing SALN annually?",
+    "options": ["January 31", "March 31", "April 30", "December 31"],
+    "answer": 2,
+    "explanation": "SALN must be filed on or before April 30 of every year."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which value means putting public interest above personal interest?",
+    "options": ["Professionalism", "Commitment to public interest", "Justness and sincerity", "Patriotism"],
+    "answer": 1,
+    "explanation": "Commitment to public interest requires prioritizing public welfare over personal gain."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must not solicit or accept gifts except:",
+    "options": ["From anyone", "From relatives and on occasions allowed by law", "From clients", "From contractors"],
+    "answer": 1,
+    "explanation": "Gifts from relatives or on special occasions are allowed if nominal and not in exchange for favors."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which norm requires public officials to be respectful and courteous?",
+    "options": ["Professionalism", "Responsiveness", "Propriety", "Commitment to democracy"],
+    "answer": 2,
+    "explanation": "Propriety requires officials to be respectful, courteous, and considerate."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the penalty for disloyalty to the Republic?",
+    "options": ["Reprimand", "Suspension", "Dismissal", "Fine"],
+    "answer": 2,
+    "explanation": "Disloyalty to the Republic is a grave offense punishable by dismissal."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which of the following is an ethical dilemma for public officials?",
+    "options": ["Following the law", "Choosing between personal gain and public duty", "Attending meetings", "Submitting reports"],
+    "answer": 1,
+    "explanation": "Ethical dilemmas occur when personal interest conflicts with public duty."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must avoid waste and misuse of public resources. This is part of:",
+    "options": ["Professionalism", "Commitment to public interest", "Propriety", "Responsiveness"],
+    "answer": 1,
+    "explanation": "Commitment to public interest includes efficient use of government resources."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which act promotes transparency in government?",
+    "options": ["Hiding SALN", "Public disclosure of SALN", "Ignoring public requests", "Delaying transactions"],
+    "answer": 1,
+    "explanation": "Public disclosure of SALN promotes transparency and accountability."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What does 'integrity' mean in public service?",
+    "options": ["Following orders only", "Upholding honesty and moral principles", "Being popular", "Avoiding work"],
+    "answer": 1,
+    "explanation": "Integrity means being honest and having strong moral principles."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which of the following is a simple neglect of duty?",
+    "options": ["Bribery", "Failure to act on a request without reason", "Graft", "Dishonesty"],
+    "answer": 1,
+    "explanation": "Failure to act promptly on a public request without valid reason is simple neglect of duty."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must not discriminate. This is under:",
+    "options": ["Professionalism", "Justness and sincerity", "Nationalism", "Responsiveness"],
+    "answer": 1,
+    "explanation": "Justness and sincerity prohibits discrimination based on gender, religion, etc."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the purpose of disciplinary action in civil service?",
+    "options": ["To punish", "To correct behavior and maintain discipline", "To demote", "To retaliate"],
+    "answer": 1,
+    "explanation": "Disciplinary action aims to correct misconduct and uphold public service standards."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which of the following is a duty of public officials under RA 6713?",
+    "options": ["Engage in private business", "Avoid conflict of interest", "Accept gifts from clients", "Ignore public complaints"],
+    "answer": 1,
+    "explanation": "Public officials must avoid situations that create conflict between public duty and private interest."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the effect of filing a false SALN?",
+    "options": ["No effect", "Administrative and criminal liability", "Promotion", "Commendation"],
+    "answer": 1,
+    "explanation": "Filing a false SALN is punishable administratively and criminally."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which value requires public officials to be competent and efficient?",
+    "options": ["Professionalism", "Nationalism", "Patriotism", "Responsiveness"],
+    "answer": 0,
+    "explanation": "Professionalism requires competence, efficiency, and adherence to ethical standards."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must not use government time for personal matters. This is:",
+    "options": ["Allowed", "Prohibited", "Encouraged", "Optional"],
+    "answer": 1,
+    "explanation": "Using government time for personal matters is misuse of public resources."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which of the following is an example of professionalism?",
+    "options": ["Being rude to clients", "Arriving late regularly", "Dressing appropriately and being competent", "Ignoring emails"],
+    "answer": 2,
+    "explanation": "Professionalism includes competence, courtesy, and proper conduct."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the role of the Office of the Ombudsman?",
+    "options": ["Hire employees", "Investigate graft and corruption cases", "Approve budgets", "Conduct elections"],
+    "answer": 1,
+    "explanation": "The Ombudsman investigates and prosecutes graft and corruption cases."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must act with impartiality. This means:",
+    "options": ["Favoring friends", "Treating everyone fairly and without bias", "Ignoring complaints", "Delaying decisions"],
+    "answer": 1,
+    "explanation": "Impartiality requires fair and unbiased treatment of all persons."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which of the following is NOT a norm under RA 6713?",
+    "options": ["Commitment to public interest", "Responsiveness", "Nepotism", "Nationalism"],
+    "answer": 2,
+    "explanation": "Nepotism is prohibited, not a norm."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the minimum penalty for grave misconduct?",
+    "options": ["Reprimand", "Suspension", "Dismissal", "Fine"],
+    "answer": 2,
+    "explanation": "Grave misconduct is punishable by dismissal from service."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must not engage in gambling during office hours. This violates:",
+    "options": ["Professionalism", "Propriety", "Responsiveness", "Nationalism"],
+    "answer": 1,
+    "explanation": "Gambling during office hours violates propriety and proper conduct."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which law complements RA 6713 in combating corruption?",
+    "options": ["RA 3019", "RA 9165", "RA 10931", "RA 11058"],
+    "answer": 0,
+    "explanation": "RA 3019 is the Anti-Graft and Corrupt Practices Act."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Public officials must submit SALN within how many days upon separation?",
+    "options": ["15 days", "30 days", "60 days", "90 days"],
+    "answer": 1,
+    "explanation": "SALN must be filed within 30 days after separation from service."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which of the following promotes accountability in government?",
+    "options": ["Secrecy", "Transparency and public disclosure", "Delay", "Favoritism"],
+    "answer": 1,
+    "explanation": "Transparency and public disclosure ensure accountability to the people."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "What is the core value that requires public officials to love the Philippines?",
+    "options": ["Professionalism", "Nationalism and patriotism", "Responsiveness", "Commitment to democracy"],
+    "answer": 1,
+    "explanation": "Nationalism and patriotism require loyalty and love for the country."
+  },
+  {
+    "section": "Code of Conduct and Ethical Standards",
+    "question": "Which act is considered conduct unbecoming of a public official?",
+    "options": ["Working overtime", "Public drunkenness", "Attending seminars", "Submitting reports on time"],
+    "answer": 1,
+    "explanation": "Public drunkenness and similar acts bring disrepute to public service."
+  }
+]

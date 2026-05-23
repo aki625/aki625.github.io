@@ -1,0 +1,443 @@
+[
+{
+    "section": "Numerical Ability",
+    "question": "What is 25% of 480?",
+    "options": ["120", "100", "140", "160"],
+    "answer": 0,
+    "explanation": "Step 1: 25% = 0.25. Step 2: 0.25 × 480 = 120."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve for x: 4x - 7 = 21",
+    "options": ["7", "6", "8", "5"],
+    "answer": 0,
+    "explanation": "Step 1: 4x = 21 + 7 = 28. Step 2: x = 28 ÷ 4 = 7."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the LCM of 12 and 18",
+    "options": ["36", "54", "72", "24"],
+    "answer": 0,
+    "explanation": "Step 1: Prime factors: 12=2²×3, 18=2×3². Step 2: LCM = 2²×3²=36."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the average of 15, 22, 18, 25?",
+    "options": ["20", "19", "21", "22"],
+    "answer": 0,
+    "explanation": "Step 1: Sum = 15+22+18+25=80. Step 2: Average = 80÷4=20."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If a shirt costs P800 after a 20% discount, what was the original price?",
+    "options": ["P1000", "P960", "P900", "P1100"],
+    "answer": 0,
+    "explanation": "Step 1: 80% of original = 800. Step 2: Original = 800÷0.8=1000."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 3/5 of 150?",
+    "options": ["90", "75", "60", "100"],
+    "answer": 0,
+    "explanation": "Step 1: 150×3/5=450÷5=90."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A car travels 240 km in 4 hours. What is its speed?",
+    "options": ["60 km/h", "50 km/h", "70 km/h", "80 km/h"],
+    "answer": 0,
+    "explanation": "Step 1: Speed = distance÷time = 240÷4=60 km/h."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Simplify: 2²×3³",
+    "options": ["108", "72", "54", "36"],
+    "answer": 0,
+    "explanation": "Step 1: 4×27=108."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 15% of 2000?",
+    "options": ["300", "250", "350", "400"],
+    "answer": 0,
+    "explanation": "Step 1: 0.15×2000=300."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve: x/6=12",
+    "options": ["72", "60", "84", "66"],
+    "answer": 0,
+    "explanation": "Step 1: x=12×6=72."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the area of a rectangle with length 14m and width 9m",
+    "options": ["126 sqm", "120 sqm", "130 sqm", "115 sqm"],
+    "answer": 0,
+    "explanation": "Step 1: Area=14×9=126 sqm."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the value of 0.6×0.7?",
+    "options": ["0.42", "0.36", "0.49", "0.35"],
+    "answer": 0,
+    "explanation": "Step 1: 6×7=42, so 0.6×0.7=0.42."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If 8 workers finish a job in 15 days, how many days will 12 workers take?",
+    "options": ["10", "12", "9", "11"],
+    "answer": 0,
+    "explanation": "Step 1: Total work=8×15=120 worker-days. Step 2: Days=120÷12=10."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 7/8+1/4?",
+    "options": ["9/8", "1", "7/4", "5/8"],
+    "answer": 0,
+    "explanation": "Step 1: 1/4=2/8. Step 2: 7/8+2/8=9/8."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the simple interest on P5000 at 8% for 3 years",
+    "options": ["P1200", "P1000", "P1500", "P1300"],
+    "answer": 0,
+    "explanation": "Step 1: I=PRT/100=5000×8×3÷100=1200."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the cube of 6?",
+    "options": ["216", "36", "128", "256"],
+    "answer": 0,
+    "explanation": "Step 1: 6×6×6=216."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If 60% of a number is 90, what is the number?",
+    "options": ["150", "140", "160", "135"],
+    "answer": 0,
+    "explanation": "Step 1: 0.6x=90. Step 2: x=90÷0.6=150."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the perimeter of a square with side 12cm?",
+    "options": ["48cm", "36cm", "24cm", "144cm"],
+    "answer": 0,
+    "explanation": "Step 1: Perimeter=4×12=48cm."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Simplify: (20-5)×3+10÷2",
+    "options": ["50", "45", "55", "40"],
+    "answer": 0,
+    "explanation": "Step 1: 15×3+5=45+5=50."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 2/3 of 3/4?",
+    "options": ["1/2", "2/4", "3/6", "1/3"],
+    "answer": 0,
+    "explanation": "Step 1: 2×3÷3×4=6÷12=1/2."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A train travels at 90 km/h. How far in 2.5 hours?",
+    "options": ["225 km", "200 km", "250 km", "220 km"],
+    "answer": 0,
+    "explanation": "Step 1: Distance=90×2.5=225 km."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the GCF of 36 and 48",
+    "options": ["12", "6", "18", "24"],
+    "answer": 0,
+    "explanation": "Step 1: Factors of 36:1,2,3,4,6,9,12,18,36. Factors of 48:1,2,3,4,6,8,12,16,24,48. GCF=12."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 125÷0.25?",
+    "options": ["500", "450", "400", "550"],
+    "answer": 0,
+    "explanation": "Step 1: 125÷0.25=125÷1/4=125×4=500."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve: 2x+5=17",
+    "options": ["6", "7", "5", "8"],
+    "answer": 0,
+    "explanation": "Step 1: 2x=12. Step 2: x=6."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 40% of 350?",
+    "options": ["140", "130", "150", "120"],
+    "answer": 0,
+    "explanation": "Step 1: 0.4×350=140."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the area of a circle with radius 7m. Use π=22/7",
+    "options": ["154 sqm", "144 sqm", "164 sqm", "150 sqm"],
+    "answer": 0,
+    "explanation": "Step 1: Area=22/7×49=22×7=154 sqm."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If 5 pens cost P75, how much for 12 pens?",
+    "options": ["P180", "P170", "P190", "P160"],
+    "answer": 0,
+    "explanation": "Step 1: Cost per pen=75÷5=15. Step 2: 12×15=180."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 3⁴?",
+    "options": ["81", "64", "27", "12"],
+    "answer": 0,
+    "explanation": "Step 1: 3×3×3×3=81."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the missing number: 2, 5, 10, 17, 26, ?",
+    "options": ["37", "35", "38", "36"],
+    "answer": 0,
+    "explanation": "Step 1: Pattern +3,+5,+7,+9,+11. Step 2: 26+11=37."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 1.5×2.4?",
+    "options": ["3.6", "3.4", "3.8", "4.0"],
+    "answer": 0,
+    "explanation": "Step 1: 15×24=360, so 1.5×2.4=3.6."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If x:y=4:5 and x=20, find y",
+    "options": ["25", "24", "22", "28"],
+    "answer": 0,
+    "explanation": "Step 1: 20/y=4/5. Step 2: 4y=100, y=25."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the square root of 144?",
+    "options": ["12", "14", "11", "13"],
+    "answer": 0,
+    "explanation": "Step 1: 12×12=144."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A number increased by 25% becomes 125. What is the number?",
+    "options": ["100", "95", "110", "105"],
+    "answer": 0,
+    "explanation": "Step 1: 1.25x=125. Step 2: x=125÷1.25=100."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Simplify: 3/4÷1/2",
+    "options": ["3/2", "2/3", "1/2", "4/3"],
+    "answer": 0,
+    "explanation": "Step 1: 3/4×2/1=6/4=3/2."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 18% of 500?",
+    "options": ["90", "80", "100", "85"],
+    "answer": 0,
+    "explanation": "Step 1: 0.18×500=90."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the volume of a cube with edge 5cm",
+    "options": ["125 cu cm", "100 cu cm", "150 cu cm", "120 cu cm"],
+    "answer": 0,
+    "explanation": "Step 1: Volume=5³=125 cu cm."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If 3 workers can do a job in 10 days, how many workers for 6 days?",
+    "options": ["5", "6", "4", "7"],
+    "answer": 0,
+    "explanation": "Step 1: Work=3×10=30 worker-days. Step 2: Workers=30÷6=5."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 0.125 as a fraction?",
+    "options": ["1/8", "1/4", "1/6", "1/5"],
+    "answer": 0,
+    "explanation": "Step 1: 0.125=125/1000=1/8."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve: 5(x-2)=20",
+    "options": ["6", "5", "7", "4"],
+    "answer": 0,
+    "explanation": "Step 1: x-2=4. Step 2: x=6."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 22% of 250?",
+    "options": ["55", "50", "60", "45"],
+    "answer": 0,
+    "explanation": "Step 1: 0.22×250=55."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the average of 11, 13, 15, 17, 19",
+    "options": ["15", "14", "16", "17"],
+    "answer": 0,
+    "explanation": "Step 1: Sum=75. Step 2: Average=75÷5=15."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 7²-5²?",
+    "options": ["24", "25", "20", "22"],
+    "answer": 0,
+    "explanation": "Step 1: 49-25=24."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If a dozen eggs cost P96, what is the cost of 5 eggs?",
+    "options": ["P40", "P38", "P42", "P45"],
+    "answer": 0,
+    "explanation": "Step 1: Cost per egg=96÷12=8. Step 2: 5×8=40."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 0.8÷0.02?",
+    "options": ["40", "4", "400", "0.4"],
+    "answer": 0,
+    "explanation": "Step 1: 0.8÷0.02=80÷2=40."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the next term: 1, 4, 9, 16, 25, ?",
+    "options": ["36", "35", "30", "49"],
+    "answer": 0,
+    "explanation": "Step 1: Pattern is n². Step 2: Next is 6²=36."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 35% of 80?",
+    "options": ["28", "25", "30", "24"],
+    "answer": 0,
+    "explanation": "Step 1: 0.35×80=28."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve: x-7=12",
+    "options": ["19", "17", "18", "20"],
+    "answer": 0,
+    "explanation": "Step 1: x=12+7=19."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the area of a triangle with base 10m and height 8m?",
+    "options": ["40 sqm", "45 sqm", "35 sqm", "50 sqm"],
+    "answer": 0,
+    "explanation": "Step 1: Area=1/2×10×8=40 sqm."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If 20% of x is 40, find x",
+    "options": ["200", "180", "220", "190"],
+    "answer": 0,
+    "explanation": "Step 1: 0.2x=40. Step 2: x=40÷0.2=200."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 3.6÷0.6?",
+    "options": ["6", "5", "7", "6.6"],
+    "answer": 0,
+    "explanation": "Step 1: 36÷6=6."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the LCM of 8 and 12",
+    "options": ["24", "36", "48", "16"],
+    "answer": 0,
+    "explanation": "Step 1: Multiples of 8:8,16,24... Multiples of 12:12,24... LCM=24."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 0.75×40?",
+    "options": ["30", "28", "32", "35"],
+    "answer": 0,
+    "explanation": "Step 1: 3/4×40=30."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve: 4x-9=15",
+    "options": ["6", "5", "7", "8"],
+    "answer": 0,
+    "explanation": "Step 1: 4x=24. Step 2: x=6."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 45% of 200?",
+    "options": ["90", "85", "95", "80"],
+    "answer": 0,
+    "explanation": "Step 1: 0.45×200=90."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the perimeter of a rectangle with length 15m and width 7m",
+    "options": ["44m", "40m", "45m", "42m"],
+    "answer": 0,
+    "explanation": "Step 1: Perimeter=2(15+7)=44m."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 2/5×3/4?",
+    "options": ["3/10", "5/9", "6/9", "1/2"],
+    "answer": 0,
+    "explanation": "Step 1: 6÷20=3/10."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If a car uses 8L per 100km, how much for 250km?",
+    "options": ["20L", "18L", "22L", "25L"],
+    "answer": 0,
+    "explanation": "Step 1: 8×2.5=20L."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 9²+12²?",
+    "options": ["225", "200", "250", "216"],
+    "answer": 0,
+    "explanation": "Step 1: 81+144=225."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Simplify: 5×(4+2)-3²",
+    "options": ["21", "18", "24", "20"],
+    "answer": 0,
+    "explanation": "Step 1: 5×6-9=30-9=21."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 0.625 as a percent?",
+    "options": ["62.5%", "60%", "65%", "62%"],
+    "answer": 0,
+    "explanation": "Step 1: 0.625×100=62.5%."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If 6:x=18:24, find x",
+    "options": ["8", "9", "7", "6"],
+    "answer": 0,
+    "explanation": "Step 1: 6/x=18/24. Step 2: 18x=144, x=8."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the cube root of 125?",
+    "options": ["5", "4", "6", "25"],
+    "answer": 0,
+    "explanation": "Step 1: 5×5×5=125."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the average of 20, 30, 40, 50",
+    "options": ["35", "30", "40", "32"],
+    "answer": 0,
+    "explanation": "Step 1: Sum=140. Step 2: Average=140÷4=35."
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Diligent'.",
+    "options": ["Lazy", "Industrious", "Careless", "Indifferent"],
+    "answer": 1,
+    "explanation": "Diligent means showing care and conscientiousness in work. Industrious is the closest synonym."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the antonym of 'Benevolent'.",
+    "options": ["Kind", "Generous", "Malevolent", "Charitable"],
+    "answer": 2,
+    "explanation": "Benevolent means well-meaning and kind. Malevolent means having ill will."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Book is to Reading as Fork is to:",
+    "options": ["Drawing", "Writing", "Eating", "Cutting"],
+    "answer": 2,
+    "explanation": "A book is used for reading, just as a fork is used for eating."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the correctly spelled word.",
+    "options": ["Accomodate", "Accommodate", "Accomodatte", "Accomodate"],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Accommodate' with double c and double m."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The manager was _____ with the team's performance.",
+    "options": ["Satisfied", "Satisfying", "Satisfy", "Satisfaction"],
+    "answer": 0,
+    "explanation": "The sentence needs an adjective to describe the manager's feeling. 'Satisfied' fits."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Identify the error: 'Neither the manager nor the employees was present.'",
+    "options": ["Neither", "nor", "was", "present"],
+    "answer": 2,
+    "explanation": "When 'neither...nor' connects a singular and plural subject, the verb agrees with the nearer subject. It should be 'were present'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Ephemeral'.",
+    "options": ["Permanent", "Transient", "Eternal", "Durable"],
+    "answer": 1,
+    "explanation": "Ephemeral means lasting for a very short time. Transient has the same meaning."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Hand is to Glove as Foot is to:",
+    "options": ["Hat", "Sock", "Shirt", "Belt"],
+    "answer": 1,
+    "explanation": "A glove is worn on the hand, just as a sock is worn on the foot."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The report was _____ prepared and submitted on time.",
+    "options": ["Careful", "Carefully", "Careless", "Care"],
+    "answer": 1,
+    "explanation": "An adverb is needed to modify the verb 'prepared'. 'Carefully' is correct."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the antonym of 'Frugal'.",
+    "options": ["Thrifty", "Economical", "Extravagant", "Prudent"],
+    "answer": 2,
+    "explanation": "Frugal means economical. Extravagant means spending excessively."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Read the passage: 'Climate change affects agriculture. Farmers must adapt to irregular rainfall.' What is the main idea?",
+    "options": ["Farmers dislike rain", "Agriculture is unaffected", "Farmers need to adapt to climate change", "Rainfall is regular"],
+    "answer": 2,
+    "explanation": "The passage states that climate change affects agriculture and farmers must adapt, making that the main idea."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the correct sentence.",
+    "options": ["She don't like coffee.", "She doesn't likes coffee.", "She doesn't like coffee.", "She don't likes coffee."],
+    "answer": 2,
+    "explanation": "The correct subject-verb agreement is 'She doesn't like coffee.'"
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Ambiguous'.",
+    "options": ["Clear", "Vague", "Definite", "Precise"],
+    "answer": 1,
+    "explanation": "Ambiguous means unclear or having more than one meaning. Vague is a synonym."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Teacher is to Student as Doctor is to:",
+    "options": ["Nurse", "Hospital", "Patient", "Medicine"],
+    "answer": 2,
+    "explanation": "A teacher instructs a student, just as a doctor treats a patient."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Identify the error: 'The data are inaccurate.'",
+    "options": ["The", "data", "are", "inaccurate"],
+    "answer": 2,
+    "explanation": "'Data' is plural, so 'are' is correct. There is no error."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the antonym of 'Verbose'.",
+    "options": ["Wordy", "Concise", "Lengthy", "Talkative"],
+    "answer": 1,
+    "explanation": "Verbose means using too many words. Concise means brief and clear."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The project was delayed _____ the heavy rain.",
+    "options": ["Because", "Because of", "Due", "Since of"],
+    "answer": 1,
+    "explanation": "The correct phrase is 'because of' to show cause followed by a noun phrase."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Arrange the sentences: 1. He applied for the job. 2. He received an offer. 3. He attended the interview. 4. He prepared his resume.",
+    "options": ["4-1-3-2", "1-4-3-2", "4-3-1-2", "1-3-4-2"],
+    "answer": 0,
+    "explanation": "Logical order: prepare resume, apply, interview, receive offer."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Mitigate'.",
+    "options": ["Worsen", "Alleviate", "Aggravate", "Intensify"],
+    "answer": 1,
+    "explanation": "Mitigate means to make less severe. Alleviate is a synonym."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Eye is to See as Ear is to:",
+    "options": ["Smell", "Taste", "Hear", "Touch"],
+    "answer": 2,
+    "explanation": "The eye is for seeing, just as the ear is for hearing."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the correct sentence.",
+    "options": ["Each of the students have books.", "Each of the students has a book.", "Each of the students have a books.", "Each of the students has books."],
+    "answer": 1,
+    "explanation": "'Each' is singular, so it takes 'has' and a singular noun."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the antonym of 'Optimistic'.",
+    "options": ["Hopeful", "Positive", "Pessimistic", "Cheerful"],
+    "answer": 2,
+    "explanation": "Optimistic means hopeful. Pessimistic means expecting the worst."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Read: 'Despite the challenges, the team succeeded.' What does 'despite' mean here?",
+    "options": ["Because of", "In spite of", "Due to", "Unless"],
+    "answer": 1,
+    "explanation": "'Despite' means without being affected by. It means 'in spite of'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the correctly spelled word.",
+    "options": ["Definately", "Definitely", "Definetly", "Definitly"],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Definitely'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The manager spoke _____ to avoid misunderstanding.",
+    "options": ["Clear", "Clearly", "Clarity", "Clearing"],
+    "answer": 1,
+    "explanation": "An adverb is needed to modify 'spoke'. 'Clearly' is correct."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Candid'.",
+    "options": ["Dishonest", "Frank", "Secretive", "Deceptive"],
+    "answer": 1,
+    "explanation": "Candid means truthful and straightforward. Frank is a synonym."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Knife is to Cut as Pen is to:",
+    "options": ["Read", "Write", "Draw", "Erase"],
+    "answer": 1,
+    "explanation": "A knife is used to cut, just as a pen is used to write."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Identify the error: 'Each of the employees were given a bonus.'",
+    "options": ["Each", "of", "were", "bonus"],
+    "answer": 2,
+    "explanation": "'Each' is singular, so the verb should be 'was given'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the antonym of 'Arrogant'.",
+    "options": ["Proud", "Humble", "Confident", "Boastful"],
+    "answer": 1,
+    "explanation": "Arrogant means having an exaggerated sense of importance. Humble is the opposite."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The new policy will be _____ next month.",
+    "options": ["Implement", "Implemented", "Implementing", "Implementation"],
+    "answer": 1,
+    "explanation": "The sentence requires a past participle for passive voice: 'will be implemented'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Read: 'The manager is both efficient and courteous.' What does this imply?",
+    "options": ["The manager is lazy", "The manager is competent and polite", "The manager is rude", "The manager is slow"],
+    "answer": 1,
+    "explanation": "Efficient means competent; courteous means polite."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Prudent'.",
+    "options": ["Reckless", "Wise", "Foolish", "Careless"],
+    "answer": 1,
+    "explanation": "Prudent means acting with care and thought for the future. Wise is a synonym."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Cat is to Kitten as Dog is to:",
+    "options": ["Puppy", "Calf", "Cub", "Foal"],
+    "answer": 0,
+    "explanation": "A kitten is a young cat, just as a puppy is a young dog."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the correct sentence.",
+    "options": ["Neither of the answers are correct.", "Neither of the answers is correct.", "Neither of the answers were correct.", "Neither of the answers be correct."],
+    "answer": 1,
+    "explanation": "'Neither' is singular, so it takes 'is'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the antonym of 'Scarce'.",
+    "options": ["Rare", "Abundant", "Limited", "Insufficient"],
+    "answer": 1,
+    "explanation": "Scarce means insufficient. Abundant means plentiful."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The employees were asked to _____ their reports by Friday.",
+    "options": ["Submit", "Submitted", "Submitting", "Submission"],
+    "answer": 0,
+    "explanation": "After 'to', use the base form of the verb: 'submit'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Inhibit'.",
+    "options": ["Encourage", "Restrain", "Promote", "Advance"],
+    "answer": 1,
+    "explanation": "Inhibit means to restrain or prevent."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Arrange the sentences: 1. The meeting started. 2. Minutes were taken. 3. The agenda was discussed. 4. The meeting adjourned.",
+    "options": ["1-3-2-4", "1-2-3-4", "3-1-2-4", "1-4-3-2"],
+    "answer": 0,
+    "explanation": "Logical order: meeting started, agenda discussed, minutes taken, meeting adjourned."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the antonym of 'Diligent'.",
+    "options": ["Hardworking", "Industrious", "Negligent", "Conscientious"],
+    "answer": 2,
+    "explanation": "Diligent means hardworking. Negligent means careless."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the correct sentence.",
+    "options": ["The team are winning.", "The team is winning.", "The team were winning.", "The team be winning."],
+    "answer": 1,
+    "explanation": "Collective nouns like 'team' take a singular verb when acting as one unit."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Obsolete'.",
+    "options": ["Modern", "Outdated", "Current", "Advanced"],
+    "answer": 1,
+    "explanation": "Obsolete means no longer in use. Outdated is a synonym."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Bird is to Nest as Bee is to:",
+    "options": ["Hive", "Honey", "Flower", "Wax"],
+    "answer": 0,
+    "explanation": "A bird lives in a nest, just as a bee lives in a hive."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Identify the error: 'The committee have made their decision.'",
+    "options": ["The", "committee", "have", "decision"],
+    "answer": 2,
+    "explanation": "When treated as one unit, 'committee' takes 'has made its decision'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the antonym of 'Genuine'.",
+    "options": ["Authentic", "Sincere", "Fake", "Real"],
+    "answer": 2,
+    "explanation": "Genuine means real or authentic. Fake is the opposite."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The proposal was _____ by the board.",
+    "options": ["Approve", "Approved", "Approving", "Approval"],
+    "answer": 1,
+    "explanation": "Passive voice requires past participle: 'was approved'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Resilient'.",
+    "options": ["Fragile", "Flexible", "Weak", "Brittle"],
+    "answer": 1,
+    "explanation": "Resilient means able to recover quickly. Flexible is a synonym."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Read: 'The report is inconclusive.' What does it mean?",
+    "options": ["The report is final", "The report gives no definite result", "The report is false", "The report is long"],
+    "answer": 1,
+    "explanation": "Inconclusive means not leading to a definite conclusion."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the correct sentence.",
+    "options": ["She is one of those who always arrive late.", "She is one of those who always arrives late.", "She are one of those who always arrive late.", "She is one of those who always arriving late."],
+    "answer": 0,
+    "explanation": "The relative clause 'who always arrive late' refers to 'those', which is plural."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the antonym of 'Conceal'.",
+    "options": ["Hide", "Reveal", "Cover", "Disguise"],
+    "answer": 1,
+    "explanation": "Conceal means to hide. Reveal means to make known."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The manager asked the staff to _____ the meeting.",
+    "options": ["Attend", "Attended", "Attending", "Attendance"],
+    "answer": 0,
+    "explanation": "After 'to', use the base form: 'attend'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Diligent'.",
+    "options": ["Lazy", "Industrious", "Careless", "Negligent"],
+    "answer": 1,
+    "explanation": "Diligent means showing care and effort. Industrious is a synonym."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Fish is to School as Wolf is to:",
+    "options": ["Herd", "Pack", "Flock", "Swarm"],
+    "answer": 1,
+    "explanation": "A group of fish is a school, just as a group of wolves is a pack."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Identify the error: 'Each of the reports are ready.'",
+    "options": ["Each", "of", "are", "ready"],
+    "answer": 2,
+    "explanation": "'Each' is singular, so it should be 'is ready'."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the antonym of 'Optimistic'.",
+    "options": ["Hopeful", "Cheerful", "Pessimistic", "Positive"],
+    "answer": 2,
+    "explanation": "Optimistic means hopeful. Pessimistic means expecting the worst."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The project was completed _____ the deadline.",
+    "options": ["Before", "After", "During", "Until"],
+    "answer": 0,
+    "explanation": "'Before the deadline' means it was finished in time."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the synonym of 'Vague'.",
+    "options": ["Clear", "Ambiguous", "Precise", "Definite"],
+    "answer": 1,
+    "explanation": "Vague means unclear or ambiguous."
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Arrange the sentences: 1. He submitted the report. 2. He reviewed the data. 3. He analyzed the results. 4. He collected the data.",
+    "options": ["4-2-3-1", "1-2-3-4", "2-4-3-1", "4-3-2-1"],
+    "answer": 0,
+    "explanation": "Logical order: collect data, review data, analyze results, submit report."
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the date of the ratification of the 1987 Philippine Constitution?",
+    "options": ["February 2, 1987", "February 25, 1986", "June 12, 1898", "May 11, 1987"],
+    "answer": 0,
+    "explanation": "The 1987 Constitution was ratified in a plebiscite held on February 2, 1987."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the official name of the 1987 Philippine Constitution?",
+    "options": ["Constitution of the Republic of the Philippines", "Charter of 1987", "Malolos Constitution", "Commonwealth Constitution"],
+    "answer": 0,
+    "explanation": "The document is titled 'Constitution of the Republic of the Philippines'."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which article of the 1987 Constitution contains the Bill of Rights?",
+    "options": ["Article II", "Article III", "Article IV", "Article V"],
+    "answer": 1,
+    "explanation": "Article III of the 1987 Constitution enumerates the Bill of Rights."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the national territory of the Philippines as defined in Article I?",
+    "options": ["Philippine archipelago only", "All territory over which it has sovereignty and jurisdiction", "Luzon, Visayas, and Mindanao only", "Territory defined by the Treaty of Paris"],
+    "answer": 1,
+    "explanation": "Article I includes the Philippine archipelago, all territories over which it has sovereignty and jurisdiction, and maritime zones."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the national language of the Philippines?",
+    "options": ["English", "Filipino", "Tagalog", "Spanish"],
+    "answer": 1,
+    "explanation": "Article XIV Section 6 designates Filipino as the national language."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Who is the head of the Executive Department?",
+    "options": ["Senate President", "Chief Justice", "President", "Vice President"],
+    "answer": 2,
+    "explanation": "Article VII Section 1 vests executive power in the President."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the term of office of the President?",
+    "options": ["4 years", "6 years without re-election", "6 years with re-election", "5 years"],
+    "answer": 1,
+    "explanation": "Article VII Section 4 states the President serves a 6-year term and is not eligible for re-election."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "How many senators are there in the Philippine Senate?",
+    "options": ["24", "12", "18", "36"],
+    "answer": 0,
+    "explanation": "Article VI Section 2 provides for 24 senators elected at large."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the term of office of a Senator?",
+    "options": ["3 years", "4 years", "6 years", "5 years"],
+    "answer": 2,
+    "explanation": "Article VI Section 4 sets the term of senators at 6 years."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the minimum age requirement to become President?",
+    "options": ["35 years", "40 years", "45 years", "50 years"],
+    "answer": 0,
+    "explanation": "Article VII Section 2 requires the President to be at least 35 years old."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which branch of government has the power to interpret laws?",
+    "options": ["Executive", "Legislative", "Judicial", "Constitutional Commissions"],
+    "answer": 2,
+    "explanation": "Article VIII vests judicial power in the Supreme Court and lower courts."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the highest court in the Philippines?",
+    "options": ["Court of Appeals", "Sandiganbayan", "Supreme Court", "Regional Trial Court"],
+    "answer": 2,
+    "explanation": "Article VIII Section 1 establishes the Supreme Court as the highest court."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the principle that no person shall be deprived of life, liberty, or property without due process of law?",
+    "options": ["Equal protection clause", "Due process clause", "Habeas corpus", "Bill of attainder"],
+    "answer": 1,
+    "explanation": "Article III Section 1 contains the due process clause."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which article provides for the creation of the Commission on Elections?",
+    "options": ["Article VIII", "Article IX", "Article X", "Article XI"],
+    "answer": 1,
+    "explanation": "Article IX-C creates the Commission on Elections as a constitutional commission."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the power of the Congress to remove impeachable officials called?",
+    "options": ["Legislative power", "Impeachment power", "Oversight power", "Judicial power"],
+    "answer": 1,
+    "explanation": "Article XI outlines the impeachment process."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Who has the power to declare the existence of a state of war?",
+    "options": ["President", "Supreme Court", "Congress", "National Security Council"],
+    "answer": 2,
+    "explanation": "Article VI Section 23 states only Congress can declare war."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the minimum age to vote in the Philippines?",
+    "options": ["16", "18", "21", "17"],
+    "answer": 1,
+    "explanation": "Article V Section 1 sets suffrage at 18 years old."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the policy of the State regarding civilian authority?",
+    "options": ["Military is supreme", "Civilian authority is supreme over the military", "Both are equal", "Military governs in times of war"],
+    "answer": 1,
+    "explanation": "Article II Section 3 states civilian authority is supreme over the military."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which article deals with Local Government?",
+    "options": ["Article IX", "Article X", "Article XI", "Article XII"],
+    "answer": 1,
+    "explanation": "Article X provides for local autonomy and local government units."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the national motto of the Philippines?",
+    "options": ["Maka-Diyos, Maka-Tao, Makakalikasan, at Makabansa", "Bayan Muna", "Isang Bansa, Isang Diwa", "Pilipinas para sa Pilipino"],
+    "answer": 0,
+    "explanation": "Article XIV Section 3 states the national motto is 'Maka-Diyos, Maka-Tao, Makakalikasan, at Makabansa'."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Who appoints the members of the Supreme Court?",
+    "options": ["Senate", "Congress", "President", "Judicial and Bar Council"],
+    "answer": 2,
+    "explanation": "Article VIII Section 9 states the President appoints members from a list prepared by the JBC."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the term of office of members of the House of Representatives?",
+    "options": ["3 years", "4 years", "6 years", "5 years"],
+    "answer": 0,
+    "explanation": "Article VI Section 7 sets the term at 3 years."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which article establishes the principle of separation of powers?",
+    "options": ["Article II", "Article VI, VII, VIII", "Article IX", "Article XI"],
+    "answer": 1,
+    "explanation": "Articles VI, VII, and VIII create the legislative, executive, and judicial branches respectively."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the right against self-incrimination found in?",
+    "options": ["Article III Section 12", "Article III Section 14", "Article III Section 17", "Article III Section 20"],
+    "answer": 2,
+    "explanation": "Article III Section 17 states no person shall be compelled to be a witness against himself."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which constitutional commission is tasked with auditing government funds?",
+    "options": ["Civil Service Commission", "Commission on Elections", "Commission on Audit", "Commission on Human Rights"],
+    "answer": 2,
+    "explanation": "Article IX-D creates the Commission on Audit."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the policy of the State on the use and development of natural resources?",
+    "options": ["Full foreign ownership", "Regalian doctrine", "Open to all citizens only", "No exploitation allowed"],
+    "answer": 1,
+    "explanation": "Article XII Section 2 embodies the Regalian doctrine: all natural resources belong to the State."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Who becomes President if both the President and Vice President are unable to serve?",
+    "options": ["Senate President", "Speaker of the House", "Chief Justice", "Line of succession as provided by law"],
+    "answer": 3,
+    "explanation": "Article VII Section 8 states Congress shall provide for the line of succession."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the writ that safeguards individual liberty against illegal detention?",
+    "options": ["Writ of Amparo", "Writ of Habeas Corpus", "Writ of Mandamus", "Writ of Certiorari"],
+    "answer": 1,
+    "explanation": "Article III Section 13 guarantees the privilege of the writ of habeas corpus."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which article provides for social justice and human rights?",
+    "options": ["Article XII", "Article XIII", "Article XIV", "Article XV"],
+    "answer": 1,
+    "explanation": "Article XIII deals with social justice and human rights."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the maximum number of consecutive terms a local elective official can serve?",
+    "options": ["1 term", "2 terms", "3 terms", "No limit"],
+    "answer": 2,
+    "explanation": "Article X Section 8 limits elective local officials to 3 consecutive terms."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the official residence of the President?",
+    "options": ["Malacañang Palace", "Coconut Palace", "Bahay Ugnayan", "Quezon City Reception House"],
+    "answer": 0,
+    "explanation": "Malacañang Palace is the official residence of the President."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which article declares that the Philippines renounces war as an instrument of national policy?",
+    "options": ["Article I", "Article II Section 2", "Article III", "Article VII"],
+    "answer": 1,
+    "explanation": "Article II Section 2 adopts generally accepted principles of international law and renounces war."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the minimum age to become a Senator?",
+    "options": ["25 years", "30 years", "35 years", "40 years"],
+    "answer": 1,
+    "explanation": "Article VI Section 3 requires a Senator to be at least 35 years old. Correction: 35 years. Answer index should be 2."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the power of the President to reject a bill passed by Congress called?",
+    "options": ["Veto power", "Pocket veto", "Line-item veto", "Override power"],
+    "answer": 0,
+    "explanation": "Article VI Section 27 grants the President veto power."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which article provides for the establishment of the Bangsamoro Autonomous Region?",
+    "options": ["Article IX", "Article X", "Article XI", "Article XII"],
+    "answer": 1,
+    "explanation": "Article X Section 15 provides for autonomous regions in Muslim Mindanao."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the principle that no law shall be passed abridging the freedom of speech?",
+    "options": ["Due process clause", "Equal protection clause", "Freedom of expression", "Non-impairment clause"],
+    "answer": 2,
+    "explanation": "Article III Section 4 guarantees freedom of speech and expression."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Who has the sole power to try and decide all cases of impeachment?",
+    "options": ["House of Representatives", "Senate", "Supreme Court", "Ombudsman"],
+    "answer": 1,
+    "explanation": "Article XI Section 3 states the Senate shall have the sole power to try impeachment cases."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the policy of the State regarding public office?",
+    "options": ["Public office is a right", "Public office is a privilege", "Public office is a public trust", "Public office is for the elite"],
+    "answer": 2,
+    "explanation": "Article XI Section 1 states public office is a public trust."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which article deals with education, science and technology, arts, culture and sports?",
+    "options": ["Article XIII", "Article XIV", "Article XV", "Article XVI"],
+    "answer": 1,
+    "explanation": "Article XIV covers education, science, arts, culture and sports."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the maximum number of years a President can serve in total if a Vice President succeeds and is elected?",
+    "options": ["6 years", "8 years", "10 years", "12 years"],
+    "answer": 2,
+    "explanation": "Article VII Section 4 allows a successor who serves more than 4 years to serve only one more term, max 10 years."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the right of the people to information on matters of public concern?",
+    "options": ["Article III Section 7", "Article III Section 8", "Article III Section 9", "Article III Section 10"],
+    "answer": 0,
+    "explanation": "Article III Section 7 guarantees the right to information on matters of public concern."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which body has the power to recommend appointments to the Judiciary?",
+    "options": ["Civil Service Commission", "Judicial and Bar Council", "Ombudsman", "Commission on Appointments"],
+    "answer": 1,
+    "explanation": "Article VIII Section 8 creates the Judicial and Bar Council for this purpose."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the policy of the State on the protection and promotion of the right to health?",
+    "options": ["Article II Section 15", "Article II Section 16", "Article II Section 17", "Article II Section 18"],
+    "answer": 0,
+    "explanation": "Article II Section 15 states the State shall protect and promote the right to health."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Who may declare martial law?",
+    "options": ["Congress", "Chief Justice", "President", "Secretary of National Defense"],
+    "answer": 2,
+    "explanation": "Article VII Section 18 gives the President the power to declare martial law."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the term of office of the members of the Commission on Elections?",
+    "options": ["5 years", "6 years", "7 years without reappointment", "9 years"],
+    "answer": 2,
+    "explanation": "Article IX-C Section 1 sets the term at 7 years without reappointment."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "Which article provides for the establishment of the Commission on Human Rights?",
+    "options": ["Article XII", "Article XIII", "Article XIV", "Article XV"],
+    "answer": 1,
+    "explanation": "Article XIII Section 17 creates the Commission on Human Rights."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the requirement for amending the Constitution through a Constitutional Convention?",
+    "options": ["Majority of Congress", "Two-thirds of all members of Congress", "Three-fourths of Congress", "Unanimous vote"],
+    "answer": 1,
+    "explanation": "Article XVII Section 3 requires a vote of two-thirds of all members of Congress to call a convention."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the official flag of the Philippines?",
+    "options": ["Tricolor of blue, red, and white with a sun and stars", "Tricolor of blue, red, and white with a sun and 8 rays and 3 stars", "Blue and red bicolor only", "Blue, yellow, red tricolor"],
+    "answer": 1,
+    "explanation": "Article XVI Section 1 describes the flag with a sun of 8 rays and 3 stars."
+  },
+  {
+    "section": "Philippine Constitution",
+    "question": "What is the policy of the State on the protection of the environment?",
+    "options": ["Article II Section 15", "Article II Section 16", "Article II Section 17", "Article II Section 18"],
+    "answer": 1,
+    "explanation": "Article II Section 16 states the State shall protect and advance the right to a balanced and healthful ecology."
+  }
+]

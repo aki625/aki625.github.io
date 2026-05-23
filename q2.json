@@ -1,0 +1,1606 @@
+[
+  {
+    "section": "General Information",
+    "question": "Which branch of the government is responsible for interpreting the laws?",
+    "options": [
+      "Executive",
+      "Legislative",
+      "Judiciary",
+      "Administrative"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "General Information",
+    "question": "Which branch of the government has the sole power to initiate all cases of impeachment?",
+    "options": [
+      "The Sandiganbayan",
+      "The Supreme Court",
+      "The House of Representatives",
+      "The Senate"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "General Information",
+    "question": "Under RA 6713, public officials must submit their SALN within _______ days after assuming office.",
+    "options": [
+      "60",
+      "90",
+      "15",
+      "30"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "General Information",
+    "question": "According to the 1987 Constitution, the national territory of the Philippines comprises the Philippine archipelago, with all the islands and waters embraced therein, and all other territories over which the Philippines has:",
+    "options": [
+      "International recognition",
+      "Sovereignty",
+      "Exclusive economic rights",
+      "Historical territorial claims"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "General Information",
+    "question": "Which of the following is an inherent power of the state that allows it to take private property for public use?",
+    "options": [
+      "Escheat",
+      "Taxation",
+      "Eminent Domain",
+      "Police Power"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "General Information",
+    "question": "The right of the people to be secure in their persons, houses, and papers against unreasonable searches is protected under:",
+    "options": [
+      "Article I",
+      "Article II",
+      "Article III",
+      "Article IV"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "General Information",
+    "question": "How many years is the term of office for a Senator in the Philippines?",
+    "options": [
+      "3 years",
+      "4 years",
+      "9 years",
+      "6 years"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "General Information",
+    "question": "Who is the Commander-in-Chief of all armed forces of the Philippines?",
+    "options": [
+      "President",
+      "Vice President",
+      "Secretary of Defense",
+      "AFP Chief"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "General Information",
+    "question": "Which of the following is NOT a Constitutional Commission?",
+    "options": [
+      "CSC",
+      "COMELEC",
+      "COA",
+      "DOJ"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "General Information",
+    "question": "The 'Code of Conduct and Ethical Standards for Public Officials' is:",
+    "options": [
+      "RA 9165",
+      "RA 7836",
+      "RA 3019",
+      "RA 6713"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "General Information",
+    "question": "Citizens of the Philippines who marry aliens shall retain their citizenship, except in which of the following cases?",
+    "options": [
+      "If by their act or omission they are deemed, under the law, to have renounced it",
+      "If they fail to register the marriage with the Philippine consulate",
+      "If they take an oath of allegiance to the spouse's country",
+      "If they reside in the spouse's country"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "General Information",
+    "question": "The President shall have the power to veto any particular item in a/an:",
+    "options": [
+      "Revenue bill",
+      "Tariff bill",
+      "All of the above",
+      "Appropriation bill"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "General Information",
+    "question": "Which of the following best describes the principle of 'Human Rights' as enshrined in the Philippine Constitution?",
+    "options": [
+      "Inherent, universal, and inalienable rights of every individual",
+      "Rights granted by the government to obedient citizens",
+      "Privileges that can be revoked during a state of emergency",
+      "Legal protections only for Filipino citizens"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "General Information",
+    "question": "The concept of 'Peace Education' in the Philippines primarily focuses on:",
+    "options": [
+      "Cultivating non-violent conflict resolution",
+      "Promoting strict military school discipline",
+      "Enhancing national defense preparations",
+      "Analyzing major historical war victories"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "General Information",
+    "question": "The state shall protect the right of the people to a balanced and healthful:",
+    "options": [
+      "Environment",
+      "Society",
+      "Economy",
+      "Ecology"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "General Information",
+    "question": "Which government body oversees the conduct of government officials?",
+    "options": [
+      "The Ombudsman",
+      "DOJ",
+      "Supreme Court",
+      "Senate"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "General Information",
+    "question": "The legislative power shall be vested in the _______ of the Philippines.",
+    "options": [
+      "Congress",
+      "President",
+      "Supreme Court",
+      "Cabinet"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "General Information",
+    "question": "Which is a prohibited act for public officials?",
+    "options": [
+      "Refusing to attend mandatory training",
+      "Failure to submit the annual SALN",
+      "Accepting gifts in connection with office",
+      "Claiming compensation for overtime work"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "General Information",
+    "question": "The 1987 Constitution was drafted by a Commission appointed by:",
+    "options": [
+      "The People",
+      "Ramos",
+      "Marcos",
+      "Corazon Aquino"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "General Information",
+    "question": "The national motto is established by:",
+    "options": [
+      "RA 8491",
+      "Constitution",
+      "Decree",
+      "Preamble"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The committee found only a TENUOUS basis for approving the request.",
+    "options": [
+      "Obvious",
+      "Certain",
+      "Weak",
+      "Strong"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The budget officer was known for his PARSIMONIOUS approach to office spending.",
+    "options": [
+      "Extravagant",
+      "Generous",
+      "Stingy",
+      "Kind"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Correct spelling:",
+    "options": [
+      "Occurence",
+      "Occurrence",
+      "Occurrance",
+      "Ocurence"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Antonym of ZENITH:",
+    "options": [
+      "Summit",
+      "Peak",
+      "Nadir",
+      "Apex"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Identify the error: (A) Either the supervisor (B) alongside his subordinates (C) is (D) responsible.",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The investigators concluded that the two contractors worked in COLLUSION to defraud the public.",
+    "options": [
+      "Harmony",
+      "Competition",
+      "Publicity",
+      "Conspiracy"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "I have worked in this municipal office _______ the year 2010.",
+    "options": [
+      "during",
+      "since",
+      "for",
+      "from"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The resource person was so LOQUACIOUS that the seminar ran an hour over schedule.",
+    "options": [
+      "Strong",
+      "Talkative",
+      "Quiet",
+      "Brave"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "What is the antonym of VOID?",
+    "options": [
+      "Important",
+      "Invalid",
+      "Hollow",
+      "Valid"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Neither of the two candidates _______ qualified for the executive position.",
+    "options": [
+      "have been",
+      "were",
+      "is",
+      "are"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Which of the following sentences follows the rules of standard English grammar?",
+    "options": [
+      "The clerk doesn’t likes it.",
+      "The clerk doesn’t like it.",
+      "The clerk don’t like it.",
+      "The clerk didn’t liked it."
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Due to the sudden lack of funding, the research project was significantly CURTAILED.",
+    "options": [
+      "Improved",
+      "Shortened",
+      "Started",
+      "Expanded"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "COMPLETE THE ANALOGY: Division is to Office as Limb is to _______.",
+    "options": [
+      "Leaf",
+      "Fruit",
+      "Bark",
+      "Body"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The supervisor’s _______ decision-making led to a lack of consistency in office procedures.",
+    "options": [
+      "Meticulous",
+      "Stringent",
+      "Diligent",
+      "Capricious"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "He has expressed that he is very much interested _______ joining the committee.",
+    "options": [
+      "on",
+      "with",
+      "at",
+      "in"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The distressing news about the office closure affected the employees deeply.",
+    "options": [
+      "Encouraging",
+      "Informative",
+      "Boring",
+      "Upsetting"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "What is the antonym of ABUNDANT?",
+    "options": [
+      "Rich",
+      "Sparse",
+      "Plentiful",
+      "Large"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Which of the following is the correct spelling of the word?",
+    "options": [
+      "Acomodation",
+      "Accommodation",
+      "Accomodation",
+      "Acommodation"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The revised form is much _______ than the older version.",
+    "options": [
+      "most clear",
+      "clearer",
+      "more clear",
+      "more clearer"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "We _______ the project earlier if we had coordinated more consistently.",
+    "options": [
+      "would have completed",
+      "complete",
+      "would complete",
+      "will complete"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The manager was respected for giving CANDID remarks during the performance review.",
+    "options": [
+      "Rude",
+      "Secretive",
+      "Complex",
+      "Frank"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The officer took a PRAGMATIC approach to the crisis, focusing on immediate solutions.",
+    "options": [
+      "Practical",
+      "Idealistic",
+      "Dreamy",
+      "Theoretical"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Reading Comprehension",
+    "question": "What is the antonym of ZEALOUS?",
+    "options": [
+      "Passionate",
+      "Fervent",
+      "Eager",
+      "Indifferent"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Reading Comprehension",
+    "question": "Online public services have become UBIQUITOUS in modern society.",
+    "options": [
+      "Rare",
+      "Complex",
+      "Widespread",
+      "Expensive"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Reading Comprehension",
+    "question": "Select the correctly spelled word:",
+    "options": [
+      "Acomodate",
+      "Accommodate",
+      "Accomodate",
+      "Acomodate"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reading Comprehension",
+    "question": "PASSAGE: The rapid advancement of Artificial Intelligence (AI) has sparked a global debate regarding its impact on the future of labor. While optimists argue that AI will create new, high-value jobs and automate mundane tasks, skeptics warn of widespread displacement of workers in traditional sectors. Proponents of 'Human-AI Collaboration' suggest that the most successful organizations will be those that integrate AI as a tool to augment human capabilities rather than replace them entirely. However, this transition requires a significant shift in education and training, focusing on 'soft skills' like critical thinking, empathy, and ethical judgment—areas where machines still struggle to compete with humans.\n\nWhich of the following best summarizes the main idea of the passage?",
+    "options": [
+      "Soft skills are more important than technical skills in every industry.",
+      "The future of work depends on the successful integration of AI and human skills.",
+      "AI will inevitably replace all human labor in the next decade.",
+      "Education systems are currently incapable of handling the AI transition."
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reading Comprehension",
+    "question": "According to the passage, what is a primary concern regarding AI?",
+    "options": [
+      "The displacement of workers in traditional sectors.",
+      "The high cost of implementing AI technology.",
+      "Machines becoming smarter than humans.",
+      "The lack of interest in AI development."
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Reading Comprehension",
+    "question": "What do proponents of 'Human-AI Collaboration' suggest?",
+    "options": [
+      "AI development should be limited to soft skills.",
+      "AI should be seen as a tool to enhance human performance.",
+      "Humans should avoid using AI in high-value jobs.",
+      "AI should be used to replace mundane human roles."
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reading Comprehension",
+    "question": "The passage implies that machines currently lack the ability to:",
+    "options": [
+      "Automate industrial processes.",
+      "Process large amounts of data.",
+      "Perform mundane tasks efficiently.",
+      "Exhibit empathy and ethical judgment."
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Reading Comprehension",
+    "question": "What is required for a successful transition to an AI-augmented workforce?",
+    "options": [
+      "A focus on technical skills in education.",
+      "A shift in training towards critical thinking and soft skills.",
+      "A complete ban on AI in traditional sectors.",
+      "The immediate retirement of traditional workers."
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Paragraph Organization",
+    "question": "DIRECTIONS: Arrange the following sentences to form a logical and coherent paragraph.\n\n1. However, the implementation of these policies faced several challenges.\n2. The local government introduced a new waste management program last year.\n3. Within six months, the community saw a 30% reduction in landfill waste.\n4. These challenges included a lack of initial public awareness and insufficient collection vehicles.\n5. Despite the hurdles, the program eventually gained momentum through continuous education campaigns.\n\nWhat is the best sequence?",
+    "options": [
+      "2-3-1-4-5",
+      "2-1-5-4-3",
+      "2-1-4-5-3",
+      "1-4-2-5-3"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Paragraph Organization",
+    "question": "1. Finally, the research concludes that urban green spaces are vital for mental health.\n2. This study explores the relationship between nature and psychological well-being.\n3. Data was collected from over five hundred participants across various city districts.\n4. Additionally, it highlights the need for better city planning in developing nations.\n5. The analysis revealed that frequent visitors to parks reported lower stress levels.\n\nWhat is the best sequence?",
+    "options": [
+      "2-3-1-5-4",
+      "3-5-2-1-4",
+      "2-3-5-1-4",
+      "2-5-3-1-4"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Paragraph Organization",
+    "question": "1. This process ensures that all official documents are properly recorded.\n2. The first step involves the verification of the applicant’s identity.\n3. Once verified, the document is then forwarded to the department head for signature.\n4. Standard operating procedures are essential for maintaining office efficiency.\n5. Only after the final approval can the document be released to the public.\n\nWhat is the best sequence?",
+    "options": [
+      "4-2-1-3-5",
+      "4-2-3-1-5",
+      "2-3-1-4-5",
+      "4-1-2-3-5"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Paragraph Organization",
+    "question": "1. Moreover, digital literacy is now a prerequisite for most government positions.\n2. Technological literacy has become a cornerstone of modern public service.\n3. This shift has led to more streamlined and transparent processes.\n4. Traditionally, public offices relied heavily on physical paperwork.\n5. Today, however, almost all transactions are processed through electronic systems.\n\nWhat is the best sequence?",
+    "options": [
+      "2-1-4-5-3",
+      "2-4-5-3-1",
+      "4-5-3-2-1",
+      "4-5-2-1-3"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Paragraph Organization",
+    "question": "1. He decided to pursue a career in law after witnessing social injustices.\n2. After years of hard work, he eventually became a respected human rights lawyer.\n3. During his childhood, he was always curious about how the legal system worked.\n4. His dedication to justice has inspired many young advocates in his community.\n5. In college, he majored in Political Science to build a strong foundation.\n\nWhat is the best sequence?",
+    "options": [
+      "3-5-1-2-4",
+      "1-3-5-2-4",
+      "3-5-1-5-2-4",
+      "3-5-2-1-4"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Kakayahang Verbal (Filipino)",
+    "question": "Piliin ang kasing-kahulugan ng salitang may salungguhit: Ang kanyang mga pahayag ay puno ng TALINHAGA.",
+    "options": [
+      "Kasinungalingan",
+      "Direktang mensahe",
+      "Misteryo",
+      "Katotohanan"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Kakayahang Verbal (Filipino)",
+    "question": "Ano ang kasalungat ng salitang MARALITA?",
+    "options": [
+      "Dukha",
+      "Mariwasa",
+      "Mangmang",
+      "Masigasig"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Kakayahang Verbal (Filipino)",
+    "question": "Alin sa sumusunod na pangungusap ang nagpapakita ng wastong gamit ng 'ng' at 'nang'?",
+    "options": [
+      "Nag-aral siya nang mabuti para sa pagsusulit.",
+      "Kumuha siya nang malaking bato sa kalsada.",
+      "Umalis ang empleyado ng walang paalam.",
+      "Ang bahay nang alkalde ay pinakamalaki sa bayan."
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Kakayahang Verbal (Filipino)",
+    "question": "Piliin ang may wastong baybay na hiram na salita:",
+    "options": [
+      "Istratehiya",
+      "Istratediya",
+      "Estratehiya",
+      "Estretehiya"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Kakayahang Verbal (Filipino)",
+    "question": "Anong bahagi ng pananalita ang salitang 'mabilis' sa pangungusap na 'Mabilis siyang tumakbo'?",
+    "options": [
+      "Pang-uri",
+      "Pandiwa",
+      "Pangngalan",
+      "Pang-abay"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Kakayahang Verbal (Filipino)",
+    "question": "Piliin ang kasing-kahulugan ng DAHOP:",
+    "options": [
+      "Sapat",
+      "Sagana",
+      "Kulang",
+      "Labis"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Kakayahang Verbal (Filipino)",
+    "question": "Ano ang kasalungat ng BANTOG?",
+    "options": [
+      "Dakila",
+      "Di-kilala",
+      "Kilala",
+      "Sikat"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Kakayahang Verbal (Filipino)",
+    "question": "Piliin ang wastong salita: ______ tayo sa darating na halalan.",
+    "options": [
+      "Bumuboto",
+      "Bumoto",
+      "Magboboto",
+      "Bumuto"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Kakayahang Verbal (Filipino)",
+    "question": "Ano ang kahulugan ng idyomang 'mababaw ang luha'?",
+    "options": [
+      "Walang pakiramdam",
+      "Laging masaya",
+      "Mahirap pasayahin",
+      "Madaling umiyak"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Kakayahang Verbal (Filipino)",
+    "question": "Piliin ang wastong pandiwa: Ang bagong patakaran ay mahigpit na ______ ng ahensya kahapon.",
+    "options": [
+      "ipapatupad",
+      "ipinapatupad",
+      "ipinatupad",
+      "nagpatupad"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Identify the grammatical error: (A) If I (B) was (C) him, I (D) would have acted differently.",
+    "options": [
+      "A - If I",
+      "D - would have",
+      "B - was",
+      "C - him"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "The METICULOUS researcher checked every single data point for accuracy.",
+    "options": [
+      "Dirty",
+      "Fast",
+      "Careless",
+      "Painstaking"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "What is the antonym of ADVERSITY?",
+    "options": [
+      "Prosperity",
+      "Conflict",
+      "Hardship",
+      "Poverty"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "I am definitely looking forward to ______ you again at the conference.",
+    "options": [
+      "see",
+      "seeing",
+      "saw",
+      "seen"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Verbal Ability",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Occurrence",
+      "Occurence",
+      "Occurence",
+      "Occurance"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 15% of 400?",
+    "options": [
+      "20",
+      "45",
+      "30",
+      "60"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If the equation 3x + 7 = 25 is given, what is the value of the variable x?",
+    "options": [
+      "9",
+      "6",
+      "5",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If one worker can paint a standard room in 6 hours, how long would it take for two workers to complete the same task working at the same rate?",
+    "options": [
+      "2 hours",
+      "4 hours",
+      "3 hours",
+      "12 hours"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the arithmetic mean of the set of numbers: 15, 25, and 35?",
+    "options": [
+      "30",
+      "20",
+      "35",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Identify the next number in the following mathematical series: 1, 4, 9, 16, 25, ...",
+    "options": [
+      "49",
+      "40",
+      "36",
+      "30"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "An office chair originally priced at P800 is offered with a 25% discount. What is the final price?",
+    "options": [
+      "P600",
+      "P500",
+      "P700",
+      "P750"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the least common multiple (LCM) of the numbers 6 and 8?",
+    "options": [
+      "14",
+      "48",
+      "12",
+      "24"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Evaluate the algebraic expression 2x² + y if the given values are x = 2 and y = 5.",
+    "options": [
+      "9",
+      "25",
+      "13",
+      "17"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A service vehicle travels a total distance of 150 kilometers in 3 hours. Maintaining the same average speed, how far can it travel in 5 hours?",
+    "options": [
+      "300 km",
+      "200 km",
+      "225 km",
+      "250 km"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the sum of the fractions 3/4 and 1/8 expressed in its simplest form?",
+    "options": [
+      "1/2",
+      "4/12",
+      "5/8",
+      "7/8"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the value of x in the following linear equation: x / 4 = 12.",
+    "options": [
+      "3",
+      "8",
+      "16",
+      "48"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the total area of a rectangular garden that measures 10 meters in length and 5 meters in width?",
+    "options": [
+      "15 sqm",
+      "30 sqm",
+      "25 sqm",
+      "50 sqm"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Using the correct order of operations (PEMDAS), simplify the expression: (2 × 5) + (10 / 2) − 3.",
+    "options": [
+      "10",
+      "15",
+      "12",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the cube root of the number 64 (i.e., ∛64)?",
+    "options": [
+      "4",
+      "16",
+      "2",
+      "8"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If one dozen folders cost P144, how much will you pay for 5 folders at the same rate?",
+    "options": [
+      "P50",
+      "P12",
+      "P60",
+      "P72"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A vehicle is traveling at a constant speed of 90 km/h. What is this speed expressed in meters per minute (m/min)?",
+    "options": [
+      "900",
+      "1500",
+      "1000",
+      "540"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "The sum of two numbers is 20 and their difference is 4. What are the two numbers?",
+    "options": [
+      "14, 6",
+      "12, 8",
+      "10, 10",
+      "11, 9"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Which of the following is the fractional equivalent of the decimal 0.05?",
+    "options": [
+      "1/5",
+      "5/10",
+      "1/20",
+      "1/20"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the radius of a circle that has a total diameter of 14 units?",
+    "options": [
+      "28",
+      "14",
+      "7",
+      "21"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "In a training group of 40 participants, 60% are women. How many men are in the group?",
+    "options": [
+      "16",
+      "24",
+      "20",
+      "14"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A construction team of 15 workers can finish a project in 12 days. How many workers are needed to finish the same project in only 9 days?",
+    "options": ["10", "25", "20", "5"],
+    "answer": 2
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A government office allocates its budget as follows: 40% for Personnel Services (PS), 35% for MOOE, and the remaining P7.5 million for Capital Outlay. What is the total budget of the office?",
+    "options": ["P40M", "P25M", "P30M", "P35M"],
+    "answer": 2
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "How many liters of pure water must be added to 80 liters of a mixture that is 20% water to make a new mixture that is 36% water?",
+    "options": ["25", "30", "20", "15"],
+    "answer": 1
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Two service vehicles start from the same office and travel in opposite directions. If one travels at 65 km/h and the other at 85 km/h, in how many hours will they be 450 km apart?",
+    "options": ["4.0", "2.5", "3.5", "3.0"],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "The price of a commodity was increased by 20% and later decreased by 15%. What was the net percentage change in the original price?",
+    "options": ["2% dec", "None", "5% inc", "2% inc"],
+    "answer": 2
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "The sum of the ages of a father and his son is 56 years. Four years ago, the father was three times as old as his son. How old is the son now?",
+    "options": ["12", "18", "14", "16"],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A rectangular lot has a perimeter of 120 meters. If the length is 10 meters more than the width, what is the total area of the lot?",
+    "options": ["875", "900", "950", "925"],
+    "answer": 1
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "The average of four exam scores is 88. If the first three scores were 85, 92, and 84, what must be the score on the fourth exam?",
+    "options": ["90", "89", "91", "92"],
+    "answer": 2
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Determine the next number in the logical sequence: 7, 11, 19, 35, 67, ...",
+    "options": ["123", "131", "135", "139"],
+    "answer": 1
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "An office cooperative places P10,000 in two short-term funds: 60% earns 20% and 40% loses 10%. What is the net gain?",
+    "options": ["P1000", "P1200", "P400", "P800"],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If 4 printers can produce 400 copies in 4 hours, how many copies can 8 printers of the same model produce in 8 hours?",
+    "options": ["1600", "800", "2000", "1200"],
+    "answer": 0
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A man spends 1/3 of his salary on rent and 1/4 on food. If he has P15,000 left, what is his total monthly salary?",
+    "options": ["P30k", "P60k", "P36k", "P45k"],
+    "answer": 2
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Two numbers are in the ratio of 3 : 5. If their sum is 160, what is the value of the larger number?",
+    "options": ["120", "100", "80", "60"],
+    "answer": 1
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the area of a circle with a radius of 7 meters? (Use π = 22/7)",
+    "options": ["164", "144", "174", "154"],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Given that x + y = 25 and x − y = 7, find the product of x and y.",
+    "options": ["160", "154", "144", "128"],
+    "answer": 1
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A 150-meter service convoy is traveling at a speed of 54 km/h. How many seconds will it take to completely pass a 250-meter bridge?",
+    "options": ["26.7", "30", "40", "20.5"],
+    "answer": 1
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the result of the mathematical expression (0.2)³ + (0.3)²?",
+    "options": ["0.015", "0.35", "0.035", "0.005"],
+    "answer": 2
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "The average of five consecutive odd numbers is 27. What is the largest number in the set?",
+    "options": ["35", "31", "33", "29"],
+    "answer": 2
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If the radius of a circle is increased by 50%, by what percentage will its total area increase?",
+    "options": ["50%", "225%", "100%", "125%"],
+    "answer": 3
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A sum of money doubles itself in 8 years at a fixed simple interest rate. What is the annual rate of interest?",
+    "options": ["12.5%", "10%", "15%", "20%"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "In a table showing 'Population Growth', if City A grew by 5% and City B by 10%, which is true?",
+    "options": [
+      "City B is larger than City A",
+      "City B grew faster than City A",
+      "Both cities have same population",
+      "City A will soon overtake City B"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'All trainees are learners' and 'Some learners are fast', then:",
+    "options": [
+      "All fast people are trainees",
+      "Some trainees are fast",
+      "None of the above",
+      "No trainees are fast"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Data: Q1 collections = P1M, Q2 = P1.2M, Q3 = P1.1M, Q4 = P1.3M. Which quarter had the lowest collections?",
+    "options": ["Q2", "Q1", "Q4", "Q3"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Which number comes next: 1, 3, 6, 10, 15, ...?",
+    "options": ["21", "25", "20", "30"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'Some Managers are Latecomers' and 'Some Latecomers are Promoted', is 'Some Managers are Promoted' necessarily true?",
+    "options": ["Maybe", "Depends on the Manager", "No", "Yes"],
+    "answer": 2
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Statement: 'All qualified applicants submitted complete forms.' Which statement is logically equivalent?",
+    "options": [
+      "It is always possible to submit the forms",
+      "Having complete forms is the only requirement",
+      "No applicant with incomplete forms is qualified",
+      "Basic qualification is always desirable"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If Desk A is to the left of Desk B, and Desk C is to the right of Desk B, then:",
+    "options": [
+      "Desk B is in the middle",
+      "None of the above",
+      "Desk A is in the middle",
+      "Desk C is in the middle"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: Draft is to Final Copy as Request is to ______.",
+    "options": ["Filing", "Approval", "Notice", "Record"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If no Auditors are Cashiers, then:",
+    "options": [
+      "Some Cashiers are Auditors",
+      "All Auditors are Cashiers",
+      "None of the above",
+      "No Cashiers are Auditors"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Which of the following is most likely to be an 'Outlier' in a dataset of office processing times?",
+    "options": [
+      "An extremely long delay",
+      "The average time",
+      "The median time",
+      "The most frequent time"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "In a pie chart, if 'Section A' is 90 degrees, what percentage of the whole is it?",
+    "options": ["33%", "25%", "10%", "50%"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'All requests are urgent' is false, then:",
+    "options": [
+      "All requests are routine",
+      "No requests are urgent",
+      "Some requests are not urgent",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: Petal is to Flower as Page is to ______.",
+    "options": ["Pen", "Library", "Paper", "Book"],
+    "answer": 3
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If Department A's budget equals Department B's, and Department B's budget is not equal to Department C's, then:",
+    "options": [
+      "Dept A's budget < Dept C's budget",
+      "Dept A's budget > Dept C's budget",
+      "Dept A's budget = Dept C's budget",
+      "Dept A's budget ≠ Dept C's budget"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Which word does not belong?",
+    "options": ["Equipment", "Office Order", "Memorandum", "Circular"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Statement: 'The cost of office supplies rose by 20%.' Conclusion:",
+    "options": [
+      "Supplies are in high demand",
+      "No office will buy supplies",
+      "Supplies are more expensive than equipment",
+      "The current cost is 120% of the old cost"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If all encoded requests receive tracking numbers and Request 24 was encoded, then:",
+    "options": [
+      "Request 24 receives a tracking number",
+      "Only Request 24 receives a tracking number",
+      "Some encoded requests receive no tracking number",
+      "Request 24 receives no tracking number"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If five people (A, B, C, D, E) are in a queue, C is at the very front, A is immediately behind C, and D is at the very end, while B is ahead of E, who is second in line?",
+    "options": ["C", "A", "E", "B"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "All permits are documents. Some documents expire quickly. Conclusion:",
+    "options": [
+      "Some permits expire quickly",
+      "None of the above",
+      "All documents are permits",
+      "No permits expire quickly"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: Approved is to Valid as Expired is to ______.",
+    "options": ["Invalid", "Deadline", "Document", "Renewal"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If courier Xavier is faster than Ysabel, and Ysabel is faster than Zandro, then:",
+    "options": [
+      "Ysabel is the fastest",
+      "Xavier is faster than Zandro",
+      "None of the above",
+      "Zandro is faster than Xavier"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Statement: 'The applicant failed screening because she did not submit complete documents.' Which assumption best links the failure to the incomplete documents?",
+    "options": [
+      "Complete documents are required to pass screening",
+      "The screening process was very difficult",
+      "She had enough time to submit documents",
+      "Passing is always better than failing"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If all permanent employees have employee numbers, and Maria is a permanent employee, then:",
+    "options": [
+      "Some permanent employees have numbers",
+      "Maria is a department head",
+      "Maria has an employee number",
+      "Maria has no employee number"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: MITIGATE is to ALLEVIATE as AGGRAVATE is to ______.",
+    "options": ["Calm", "Ignore", "Improve", "Worsen"],
+    "answer": 3
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: Approve is to Reject as Increase is to ______.",
+    "options": ["Raise", "Expand", "Improve", "Decrease"],
+    "answer": 3
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 3x = 15, then x + 5 = ...",
+    "options": ["15", "10", "5", "20"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Assuming at least one Trainee exists, which is a logically valid conclusion for 'All Trainees are Employees'?",
+    "options": [
+      "Some Trainees are not Employees",
+      "Some Employees are Trainees",
+      "No Employees are Trainees",
+      "All Employees are Trainees"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'All managers are employees' and 'Some employees are supervisors', then:",
+    "options": [
+      "All managers are supervisors",
+      "Some managers are supervisors",
+      "No managers are supervisors",
+      "Some supervisors are managers"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: File is to Folder as Email is to ______.",
+    "options": ["Inbox", "Letter", "Message", "Computer"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If it is not true that 'All reports are accurate', what must be true?",
+    "options": [
+      "No reports are accurate",
+      "Some reports are not accurate",
+      "All reports are inaccurate",
+      "Some reports are accurate"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "A, B, C, and D sit in a row. A is not next to D. B is between A and C. Who sits at the left end?",
+    "options": ["A", "B", "C", "D"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'Some clerks are fast typists' and 'All fast typists are efficient', then:",
+    "options": [
+      "All clerks are efficient",
+      "Some clerks are efficient",
+      "No clerks are efficient",
+      "All efficient people are clerks"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: Increase is to Decrease as Hire is to ______.",
+    "options": ["Employ", "Fire", "Promote", "Train"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If Q3 sales = P2M, Q4 sales = P2.5M, what is the percent increase?",
+    "options": ["20%", "25%", "30%", "15%"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Which number comes next: 2, 6, 12, 20, 30, ...?",
+    "options": ["40", "42", "44", "46"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'No interns are full-time staff', then:",
+    "options": [
+      "Some full-time staff are interns",
+      "All interns are full-time staff",
+      "No full-time staff are interns",
+      "Some interns are full-time staff"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Statement: 'Meeting was cancelled due to low attendance.' Which assumption is made?",
+    "options": [
+      "Meetings require high attendance",
+      "Attendance was zero",
+      "The meeting was unimportant",
+      "No one wanted to attend"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If X is older than Y, and Y is older than Z, then:",
+    "options": [
+      "Z is older than X",
+      "X is older than Z",
+      "X and Z are same age",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: Approve is to Approval as Reject is to ______.",
+    "options": ["Rejection", "Rejecting", "Rejected", "Rejects"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Data: Team A solved 12 cases, Team B solved 15, Team C solved 9. Which team performed best?",
+    "options": ["Team A", "Team B", "Team C", "Cannot tell"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'All documents must be signed', what follows?",
+    "options": [
+      "Unsigned documents are valid",
+      "Signed documents are invalid",
+      "Unsigned documents are invalid",
+      "All signed documents are documents"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Which word does not belong: Invoice, Receipt, Ledger, Appointment?",
+    "options": ["Invoice", "Receipt", "Ledger", "Appointment"],
+    "answer": 3
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 5x = 40, then x - 3 = ...",
+    "options": ["5", "8", "7", "3"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'Some reports are late' is true, which must be false?",
+    "options": [
+      "All reports are on time",
+      "Some reports are on time",
+      "No reports are late",
+      "All reports are late"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: Budget is to Finance as Schedule is to ______.",
+    "options": ["Time", "Work", "Project", "Date"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "A, B, C stand in a line. A is ahead of B. C is behind B. Who is in the middle?",
+    "options": ["A", "B", "C", "Cannot tell"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'All requests need approval', and Request 7 has no approval, then:",
+    "options": [
+      "Request 7 is approved",
+      "Request 7 is not a request",
+      "Request 7 is invalid",
+      "Request 7 needs no approval"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Which is the outlier: 10, 12, 11, 13, 50?",
+    "options": ["10", "12", "13", "50"],
+    "answer": 3
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'No qualified candidates failed', then:",
+    "options": [
+      "Some qualified candidates failed",
+      "All who failed are unqualified",
+      "All who passed are qualified",
+      "No unqualified candidates passed"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: Start is to Finish as Open is to ______.",
+    "options": ["Close", "Enter", "Begin", "End"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If Department X has 20 staff and Department Y has 30 staff, what is the ratio?",
+    "options": ["2:3", "3:2", "1:2", "2:1"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'Some emails are urgent' is false, then:",
+    "options": [
+      "All emails are urgent",
+      "No emails are urgent",
+      "Some emails are not urgent",
+      "All emails are not urgent"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Which number comes next: 81, 27, 9, 3, ...?",
+    "options": ["1", "0", "2", "6"],
+    "answer": 0
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'All valid forms are processed', and Form 5 is not processed, then:",
+    "options": [
+      "Form 5 is valid",
+      "Form 5 is invalid",
+      "Form 5 is processed",
+      "All forms are invalid"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "COMPLETE THE ANALOGY: Manager is to Staff as Teacher is to ______.",
+    "options": ["School", "Student", "Classroom", "Subject"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If P = 15 and Q = 5, what is P ÷ Q + 2?",
+    "options": ["3", "5", "7", "9"],
+    "answer": 1
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If 'Some supervisors are not present', what does it imply?",
+    "options": [
+      "All supervisors are present",
+      "No supervisors are present",
+      "At least one supervisor is absent",
+      "All supervisors are absent"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "Which word does not belong: Memo, Notice, Circular, Salary?",
+    "options": ["Memo", "Notice", "Circular", "Salary"],
+    "answer": 3
+  },
+  {
+    "section": "Analytical Reasoning",
+    "question": "If the average of 5 numbers is 20, what is their sum?",
+    "options": ["80", "90", "100", "110"],
+    "answer": 2
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "section": "Numerical Ability",
+    "question": "If 3x + 7 = 25, what is the value of x?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 1,
+    "explanation": "Step 1: Subtract 7 from both sides → 3x = 18. Step 2: Divide by 3 → x = 6."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A shirt costs ₱800 with a 15% discount. What is the sale price?",
+    "options": ["₱680", "₱720", "₱750", "₱770"],
+    "answer": 0,
+    "explanation": "Step 1: Discount = 15% of 800 = 0.15 × 800 = ₱120. Step 2: Sale price = 800 - 120 = ₱680."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 45% of 240?",
+    "options": ["96", "108", "112", "120"],
+    "answer": 1,
+    "explanation": "45% = 45/100 = 0.45. So 240 × 0.45 = 108."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A car travels 240 km in 4 hours. What is the average speed?",
+    "options": ["50 km/h", "55 km/h", "60 km/h", "65 km/h"],
+    "answer": 2,
+    "explanation": "Speed = Distance ÷ Time = 240 ÷ 4 = 60 km/h."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the next number: 2, 5, 10, 17, 26, ?",
+    "options": ["35", "36", "37", "38"],
+    "answer": 2,
+    "explanation": "Pattern: +3, +5, +7, +9, +11. Differences increase by 2. So 26 + 11 = 37."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Ratio of boys to girls is 3:4. If there are 28 students, how many boys?",
+    "options": ["10", "12", "14", "16"],
+    "answer": 1,
+    "explanation": "Total parts = 3 + 4 = 7. One part = 28 ÷ 7 = 4. Boys = 3 × 4 = 12."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Simplify: 3(4x - 2) + 5x",
+    "options": ["12x - 6", "17x - 6", "12x - 2", "17x - 2"],
+    "answer": 1,
+    "explanation": "Step 1: Distribute → 12x - 6 + 5x. Step 2: Combine like terms → 17x - 6."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A worker finishes a job in 6 hours. How much is done in 2 hours?",
+    "options": ["1/2", "1/3", "1/4", "2/3"],
+    "answer": 1,
+    "explanation": "Work done = Time ÷ Total time = 2 ÷ 6 = 1/3 of the job."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is the LCM of 12 and 18?",
+    "options": ["36", "54", "72", "108"],
+    "answer": 0,
+    "explanation": "Prime factors: 12 = 2²×3, 18 = 2×3². LCM = 2²×3² = 36."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "5 machines produce 200 items in 4 hours. How many items do 3 machines produce in 6 hours?",
+    "options": ["180", "200", "225", "240"],
+    "answer": 0,
+    "explanation": "Rate per machine per hour = 200 ÷ (5×4) = 10. For 3 machines in 6 hours: 3×6×10 = 180."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve for y: 2y - 9 = 3y + 5",
+    "options": ["-14", "-4", "4", "14"],
+    "answer": 0,
+    "explanation": "Step 1: Move terms → 2y - 3y = 5 + 9. Step 2: -y = 14 → y = -14."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A tank is 3/5 full. Adding 40 L makes it 4/5 full. What is the tank’s capacity?",
+    "options": ["100 L", "120 L", "200 L", "240 L"],
+    "answer": 2,
+    "explanation": "4/5 - 3/5 = 1/5 of capacity = 40 L. So capacity = 40 × 5 = 200 L."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 12.5% of 640?",
+    "options": ["70", "75", "80", "85"],
+    "answer": 2,
+    "explanation": "12.5% = 1/8. So 640 ÷ 8 = 80."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Sum of two numbers is 72, difference is 12. What is the larger number?",
+    "options": ["30", "36", "42", "48"],
+    "answer": 2,
+    "explanation": "Let numbers be a, b. a+b=72, a-b=12. Adding: 2a=84 → a=42."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Train travels 90 km in 1.5 hours. Time for 210 km at same speed?",
+    "options": ["3 hrs", "3.5 hrs", "4 hrs", "4.5 hrs"],
+    "answer": 1,
+    "explanation": "Speed = 90 ÷ 1.5 = 60 km/h. Time = 210 ÷ 60 = 3.5 hours."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Average of 18, 22, 25, 35?",
+    "options": ["23", "24", "25", "26"],
+    "answer": 2,
+    "explanation": "Sum = 100. Average = 100 ÷ 4 = 25."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Area of rectangle 12 m by 8 m?",
+    "options": ["80 m²", "88 m²", "96 m²", "104 m²"],
+    "answer": 2,
+    "explanation": "Area = length × width = 12 × 8 = 96 m²."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If 40% of a number is 120, what is the number?",
+    "options": ["280", "300", "320", "360"],
+    "answer": 1,
+    "explanation": "0.40 × N = 120 → N = 120 ÷ 0.40 = 300."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Evaluate: 5² + 3 × 4 - 2³",
+    "options": ["29", "31", "33", "35"],
+    "answer": 0,
+    "explanation": "25 + 12 - 8 = 29. Follow PEMDAS: exponents, multiplication, then add/subtract."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A person earns ₱15,000 and saves 40%. How much is saved?",
+    "options": ["₱5,000", "₱6,000", "₱7,500", "₱9,000"],
+    "answer": 1,
+    "explanation": "Savings = 40% of 15,000 = 0.40 × 15,000 = ₱6,000."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Next number: 1, 4, 9, 16, 25, ?",
+    "options": ["30", "32", "36", "40"],
+    "answer": 2,
+    "explanation": "Sequence is squares: 1², 2², 3², 4², 5². Next is 6² = 36."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "7 workers build a wall in 12 days. How many days for 4 workers?",
+    "options": ["18", "21", "24", "28"],
+    "answer": 1,
+    "explanation": "Total work = 7×12 = 84 worker-days. For 4 workers: 84 ÷ 4 = 21 days."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve: 2/3 of 45 + 1/5 of 50",
+    "options": ["35", "38", "40", "42"],
+    "answer": 2,
+    "explanation": "2/3 of 45 = 30. 1/5 of 50 = 10. Sum = 40."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 25% more than 160?",
+    "options": ["180", "190", "200", "210"],
+    "answer": 2,
+    "explanation": "25% of 160 = 40. Add to 160 → 160 + 40 = 200."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Perimeter of square is 48 cm. Find side length.",
+    "options": ["10 cm", "12 cm", "14 cm", "16 cm"],
+    "answer": 1,
+    "explanation": "Perimeter = 4 × side. Side = 48 ÷ 4 = 12 cm."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If x:y = 5:3 and y = 15, find x.",
+    "options": ["20", "25", "30", "35"],
+    "answer": 1,
+    "explanation": "x/15 = 5/3 → x = (5×15)/3 = 25."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "₱150 discount on ₱1,000 item. What is discount rate?",
+    "options": ["12%", "15%", "18%", "20%"],
+    "answer": 1,
+    "explanation": "Rate = 150 ÷ 1000 × 100% = 15%."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Square root of 169?",
+    "options": ["11", "12", "13", "14"],
+    "answer": 2,
+    "explanation": "13 × 13 = 169, so √169 = 13."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Dozen eggs cost ₱96. Cost of 8 eggs?",
+    "options": ["₱60", "₱64", "₱72", "₱80"],
+    "answer": 1,
+    "explanation": "Price per egg = 96 ÷ 12 = ₱8. For 8 eggs: 8 × 8 = ₱64."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve: 5x - 3 = 2x + 12",
+    "options": ["3", "4", "5", "6"],
+    "answer": 2,
+    "explanation": "5x - 2x = 12 + 3 → 3x = 15 → x = 5."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 3/4 of 120?",
+    "options": ["80", "85", "90", "95"],
+    "answer": 2,
+    "explanation": "120 × 3/4 = 360/4 = 90."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A number increased by 20% becomes 72. Find the number.",
+    "options": ["56", "58", "60", "62"],
+    "answer": 2,
+    "explanation": "1.20 × N = 72 → N = 72 ÷ 1.20 = 60."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "HCF of 36 and 48?",
+    "options": ["6", "8", "12", "18"],
+    "answer": 2,
+    "explanation": "Factors: 36=2²×3², 48=2⁴×3. HCF = 2²×3 = 12."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "5 pens cost ₱75. How many for ₱120?",
+    "options": ["6", "7", "8", "9"],
+    "answer": 2,
+    "explanation": "Cost per pen = 75 ÷ 5 = ₱15. 120 ÷ 15 = 8 pens."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Evaluate 7! ÷ 5!",
+    "options": ["14", "21", "42", "84"],
+    "answer": 2,
+    "explanation": "7! ÷ 5! = (7×6×5!)/5! = 7×6 = 42."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Box has 3 red, 4 blue, 5 green balls. Probability of picking blue?",
+    "options": ["1/3", "1/4", "1/3", "1/12"],
+    "answer": 1,
+    "explanation": "Total balls = 12. P(blue) = 4/12 = 1/3."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Simple interest on ₱10,000 for 2 years is ₱1,200. Find rate.",
+    "options": ["5%", "6%", "7%", "8%"],
+    "answer": 1,
+    "explanation": "SI = PRT/100 → 1200 = 10000×R×2/100 → R = 6%."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 15% of 80% of 500?",
+    "options": ["45", "50", "55", "60"],
+    "answer": 0,
+    "explanation": "500 × 0.80 = 400. Then 400 × 0.15 = 60."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve: (4x + 2) ÷ 2 = 10",
+    "options": ["3", "4", "4.5", "5"],
+    "answer": 2,
+    "explanation": "Multiply both sides by 2: 4x + 2 = 20 → 4x = 18 → x = 4.5."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Area of circle with radius 7 cm? Use π ≈ 3.14.",
+    "options": ["154 cm²", "144 cm²", "132 cm²", "121 cm²"],
+    "answer": 0,
+    "explanation": "Area = πr² = 3.14 × 7² = 3.14 × 49 ≈ 154 cm²."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "6 men do a job in 10 days. How many men for 4 days?",
+    "options": ["12", "15", "18", "20"],
+    "answer": 1,
+    "explanation": "Total work = 6×10 = 60 man-days. For 4 days: 60 ÷ 4 = 15 men."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Express 0.75 as a fraction in lowest terms.",
+    "options": ["3/5", "3/4", "4/5", "5/6"],
+    "answer": 1,
+    "explanation": "0.75 = 75/100 = divide by 25 → 3/4."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Scores: 85, 90, 95. What score for average of 90 in 4 tests?",
+    "options": ["85", "90", "95", "100"],
+    "answer": 1,
+    "explanation": "Total needed = 90×4 = 360. Sum of 3 tests = 270. Needed = 360 - 270 = 90."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "If x=3, y=-2, find 2x² - 3xy + y².",
+    "options": ["15", "18", "21", "24"],
+    "answer": 2,
+    "explanation": "Substitute: 2(9) - 3(3)(-2) + 4 = 18 + 18 + 4 = 40."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "A number divisible by 3 and 4 is also divisible by?",
+    "options": ["6", "7", "9", "12"],
+    "answer": 3,
+    "explanation": "LCM of 3 and 4 is 12. So it must be divisible by 12."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 60% of 1/3 of 450?",
+    "options": ["75", "80", "90", "100"],
+    "answer": 2,
+    "explanation": "1/3 of 450 = 150. 60% of 150 = 0.60×150 = 90."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Solve: 3(n + 4) = 2(n + 10)",
+    "options": ["4", "6", "8", "10"],
+    "answer": 2,
+    "explanation": "Expand: 3n + 12 = 2n + 20 → 3n - 2n = 20 - 12 → n = 8."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Item costs ₱800, sold at 25% profit. Find selling price.",
+    "options": ["₱900", "₱950", "₱1,000", "₱1,050"],
+    "answer": 2,
+    "explanation": "Profit = 25% of 800 = ₱200. Selling price = 800 + 200 = ₱1,000."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Find the median of 7, 12, 9, 15, 8.",
+    "options": ["8", "9", "10", "12"],
+    "answer": 1,
+    "explanation": "Arrange ascending: 7, 8, 9, 12, 15. Middle value is 9."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "Length doubled, width halved for rectangle. What happens to area?",
+    "options": ["Doubles", "Halves", "Remains same", "Quadruples"],
+    "answer": 2,
+    "explanation": "New area = 2L × (W/2) = LW. Area unchanged."
+  },
+  {
+    "section": "Numerical Ability",
+    "question": "What is 2/5 of 150 minus 1/3 of 90?",
+    "options": ["25", "30", "35", "40"],
+    "answer": 1,
+    "explanation": "2/5 of 150 = 60. 1/3 of 90 = 30. Difference = 60 - 30 = 30."
+  }
+]

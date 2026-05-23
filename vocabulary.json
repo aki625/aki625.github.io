@@ -1,0 +1,345 @@
+[
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Abstruse'.",
+    "options": ["Obvious", "Obscure", "Simple", "Common"],
+    "answer": 1,
+    "explanation": "Abstruse means difficult to understand; obscure."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Belligerent'.",
+    "options": ["Hostile", "Aggressive", "Pacifistic", "Combative"],
+    "answer": 2,
+    "explanation": "Belligerent means hostile and aggressive. Pacifistic means opposed to war and violence."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Cacophony' mean?",
+    "options": ["Melody", "Harmony", "Harsh discordant sound", "Silence"],
+    "answer": 2,
+    "explanation": "Cacophony is a harsh, discordant mixture of sounds."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Denigrate'.",
+    "options": ["Praise", "Exalt", "Belittle", "Commend"],
+    "answer": 2,
+    "explanation": "Denigrate means to criticize unfairly; belittle."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Ephemeral' mean?",
+    "options": ["Permanent", "Lasting", "Transitory", "Enduring"],
+    "answer": 2,
+    "explanation": "Ephemeral means lasting for a very short time."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Fallacious'.",
+    "options": ["Erroneous", "Deceptive", "Valid", "Misleading"],
+    "answer": 2,
+    "explanation": "Fallacious means based on a mistaken belief. Valid means logically sound."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Grandiloquent' mean?",
+    "options": ["Modest", "Pompous and extravagant in language", "Brief", "Humble"],
+    "answer": 1,
+    "explanation": "Grandiloquent means speaking in a pompously elaborate way."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Heterogeneous'.",
+    "options": ["Homogeneous", "Uniform", "Diverse", "Identical"],
+    "answer": 2,
+    "explanation": "Heterogeneous means composed of different kinds of things; diverse."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Impecunious' mean?",
+    "options": ["Wealthy", "Affluent", "Having little or no money", "Generous"],
+    "answer": 2,
+    "explanation": "Impecunious means having little or no money."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Insipid'.",
+    "options": ["Dull", "Tasteless", "Vivacious", "Bland"],
+    "answer": 2,
+    "explanation": "Insipid means lacking vigor or interest. Vivacious means lively and animated."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Laconic' mean?",
+    "options": ["Verbose", "Using very few words", "Talkative", "Long-winded"],
+    "answer": 1,
+    "explanation": "Laconic means using very few words."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Malinger'.",
+    "options": ["Work hard", "Shirk responsibility", "Diligent", "Industrious"],
+    "answer": 1,
+    "explanation": "Malinger means to pretend illness to avoid work or duty."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Nefarious' mean?",
+    "options": ["Righteous", "Wicked", "Virtuous", "Honorable"],
+    "answer": 1,
+    "explanation": "Nefarious means wicked or criminal."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Obsequious'.",
+    "options": ["Subservient", "Fawning", "Assertive", "Servile"],
+    "answer": 2,
+    "explanation": "Obsequious means excessively obedient. Assertive means self-assured and confident."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Perfunctory' mean?",
+    "options": ["Thorough", "Careful", "Cursory and superficial", "Meticulous"],
+    "answer": 2,
+    "explanation": "Perfunctory means carried out without real interest or effort."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Quixotic'.",
+    "options": ["Practical", "Idealistic and impractical", "Realistic", "Sensible"],
+    "answer": 1,
+    "explanation": "Quixotic means exceedingly idealistic; unrealistic and impractical."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Recondite' mean?",
+    "options": ["Common", "Little known; obscure", "Familiar", "Popular"],
+    "answer": 1,
+    "explanation": "Recondite means little known; obscure."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Sagacious'.",
+    "options": ["Wise", "Perceptive", "Foolish", "Astute"],
+    "answer": 2,
+    "explanation": "Sagacious means having keen discernment. Foolish is the opposite."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Taciturn' mean?",
+    "options": ["Talkative", "Reserved or uncommunicative", "Loquacious", "Garrulous"],
+    "answer": 1,
+    "explanation": "Taciturn means reserved or uncommunicative in speech."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Urbane'.",
+    "options": ["Rude", "Crude", "Sophisticated", "Vulgar"],
+    "answer": 2,
+    "explanation": "Urbane means suave, courteous, and refined in manner."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Venal' mean?",
+    "options": ["Honest", "Corruptible", "Incorruptible", "Principled"],
+    "answer": 1,
+    "explanation": "Venal means corruptible; susceptible to bribery."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Wanton'.",
+    "options": ["Reckless", "Deliberate", "Restrained", "Unrestrained"],
+    "answer": 2,
+    "explanation": "Wanton means deliberate and unprovoked. Restrained means controlled."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Zephyr' mean?",
+    "options": ["Storm", "Gentle breeze", "Hurricane", "Gale"],
+    "answer": 1,
+    "explanation": "Zephyr means a gentle, mild breeze."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Apocryphal'.",
+    "options": ["Authentic", "Genuine", "Doubtful authenticity", "Verified"],
+    "answer": 2,
+    "explanation": "Apocryphal means of doubtful authenticity, though widely circulated as true."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Breviloquence' mean?",
+    "options": ["Verbosity", "Brevity of speech", "Rambling talk", "Prolixity"],
+    "answer": 1,
+    "explanation": "Breviloquence means brevity of speech."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Capricious'.",
+    "options": ["Whimsical", "Impulsive", "Steadfast", "Mercurial"],
+    "answer": 2,
+    "explanation": "Capricious means given to sudden changes. Steadfast means firmly fixed."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Demagogue' mean?",
+    "options": ["Scholar", "Political leader who appeals to desires and prejudices", "Diplomat", "Statesman"],
+    "answer": 1,
+    "explanation": "Demagogue is a political leader who gains support by appealing to desires and prejudices."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Equivocate'.",
+    "options": ["Clarify", "Prevaricate", "Affirm", "Declare"],
+    "answer": 1,
+    "explanation": "Equivocate means use ambiguous language to conceal the truth."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Fastidious' mean?",
+    "options": ["Careless", "Very concerned about accuracy and detail", "Negligent", "Sloppy"],
+    "answer": 1,
+    "explanation": "Fastidious means very concerned about accuracy and detail."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Garrulous'.",
+    "options": ["Loquacious", "Talkative", "Taciturn", "Voluble"],
+    "answer": 2,
+    "explanation": "Garrulous means excessively talkative. Taciturn means reserved in speech."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Harbinger' mean?",
+    "options": ["Follower", "Person who announces coming of something", "Successor", "Descendant"],
+    "answer": 1,
+    "explanation": "Harbinger is a person or thing that announces or signals the approach of another."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Iconoclast'.",
+    "options": ["Conformist", "Traditionalist", "Person who attacks cherished beliefs", "Orthodox"],
+    "answer": 2,
+    "explanation": "Iconoclast is a person who attacks cherished beliefs or institutions."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Lugubrious' mean?",
+    "options": ["Cheerful", "Mournful or gloomy", "Joyful", "Optimistic"],
+    "answer": 1,
+    "explanation": "Lugubrious means looking or sounding sad and mournful."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Mendacious'.",
+    "options": ["Deceitful", "Dishonest", "Truthful", "Untruthful"],
+    "answer": 2,
+    "explanation": "Mendacious means untruthful. Truthful is the opposite."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Nascent' mean?",
+    "options": ["Mature", "Just coming into existence", "Declining", "Decaying"],
+    "answer": 1,
+    "explanation": "Nascent means just coming into existence and beginning to display signs."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Onerous'.",
+    "options": ["Easy", "Burdened", "Burden some", "Light"],
+    "answer": 2,
+    "explanation": "Onerous means involving a great deal of effort, trouble, or difficulty."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Pusillanimous' mean?",
+    "options": ["Brave", "Lacking courage", "Bold", "Fearless"],
+    "answer": 1,
+    "explanation": "Pusillanimous means showing a lack of courage or determination; timid."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Rancor'.",
+    "options": ["Bitterness", "Resentment", "Goodwill", "Spite"],
+    "answer": 2,
+    "explanation": "Rancor means bitterness or resentment. Goodwill is the opposite."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Sycophant' mean?",
+    "options": ["Critic", "Self-serving flatterer", "Rebel", "Dissenter"],
+    "answer": 1,
+    "explanation": "Sycophant is a person who acts obsequiously toward someone to gain advantage."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Trenchant'.",
+    "options": ["Vague", "Sharp and forceful", "Weak", "Mild"],
+    "answer": 1,
+    "explanation": "Trenchant means vigorous or incisive in expression or style."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Ubiquity' mean?",
+    "options": ["Rarity", "Presence everywhere at the same time", "Scarcity", "Absence"],
+    "answer": 1,
+    "explanation": "Ubiquity means the state of being everywhere at once."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Verbose'.",
+    "options": ["Wordy", "Prolix", "Concise", "Loquacious"],
+    "answer": 2,
+    "explanation": "Verbose means using more words than needed. Concise means brief and to the point."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Winnow' mean?",
+    "options": ["Mix", "Separate grain from chaff", "Combine", "Blend"],
+    "answer": 1,
+    "explanation": "Winnow means to separate the good part from the worthless part."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Xenophobia'.",
+    "options": ["Philoxenia", "Fear of foreigners", "Love of strangers", "Hospitality"],
+    "answer": 1,
+    "explanation": "Xenophobia is an intense dislike or fear of people from other countries."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Yoke' mean?",
+    "options": ["Liberate", "Free", "Bind together", "Release"],
+    "answer": 2,
+    "explanation": "Yoke means to join together or bind, often in servitude."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the antonym of 'Zealot'.",
+    "options": ["Fanatic", "Enthusiast", "Moderate", "Zealous person"],
+    "answer": 2,
+    "explanation": "Zealot is a person with extreme and uncritical enthusiasm. Moderate is the opposite."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Alacrity' mean?",
+    "options": ["Reluctance", "Eagerness and willingness", "Hesitation", "Apathy"],
+    "answer": 1,
+    "explanation": "Alacrity means brisk and cheerful readiness."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "Choose the synonym of 'Blandishment'.",
+    "options": ["Insult", "Flattery", "Criticism", "Rebuke"],
+    "answer": 1,
+    "explanation": "Blandishment means flattering or coaxing talk."
+  },
+  {
+    "section": "Vocabulary - Civil Service Professional Level",
+    "question": "What does 'Cogent' mean?",
+    "options": ["Weak", "Clear, logical, and convincing", "Confused", "Incoherent"],
+    "answer": 1,
+    "explanation": "Cogent means clear, logical, and convincing."
+  }
+]

@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Civil Service Mock Exam 📚</title>
+<style>
+  :root{
+    --bg: #1b1a22; --card: #252431; --card-2: #2f2e3d;
+    --text: #e8e6f2; --muted: #b8b5c8; --accent: #a8b5ff; --accent-2: #c8b6ff;
+    --correct: #a3d9a5; --wrong: #f2a6a6; --border: #3a3948;
+    --shadow: 0 8px 24px rgba(0,0,0,0.35); --radius: 16px;
+  }
+
+  *{box-sizing:border-box; margin:0; padding:0}
+  body{
+    font-family: 'Segoe UI', Roboto, system-ui, sans-serif;
+    background: radial-gradient(1200px 800px at 80% -10%, #2a2840 0%, var(--bg) 50%);
+    color: var(--text); min-height: 100vh; padding: 20px; line-height: 1.6;
+  }
+
+.container{max-width: 1000px; margin: 0 auto;}
+header{text-align: center; margin-bottom: 32px;}
+header h1{
+  font-size: 2.2rem; background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 8px;
+}
+header p{color: var(--muted)}
+
+.card{
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 24px; box-shadow: var(--shadow);
+}
+
+/* Home screen */
+.sections{display: grid; gap: 24px;}
+.section-block{
+  background: var(--card-2); border: 1px solid var(--border);
+  border-radius: 14px; padding: 20px;
+}
+.section-block h2{margin-bottom: 12px; font-size: 1.3rem}
+.section-block p{color: var(--muted); font-size: 0.9rem; margin-bottom: 14px}
+
+.top-controls{
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 16px; flex-wrap: wrap; gap: 12px;
+}
+
+.toggle-wrap{
+  display: flex; align-items: center; gap: 10px;
+  background: var(--card); border: 1px solid var(--border);
+  padding: 10px 14px; border-radius: 12px; font-size: 0.95rem;
+}
+.toggle{
+  position: relative; width: 48px; height: 26px; background: var(--border);
+  border-radius: 999px; cursor: pointer; transition: 0.2s;
+}
+.toggle.active{background: var(--accent);}
+.toggle::after{
+  content: ''; position: absolute; width: 20px; height: 20px; background: var(--text);
+  border-radius: 50%; top: 3px; left: 3px; transition: 0.2s;
+}
+.toggle.active::after{left: 25px;}
+
+.file-grid{
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px;
+}
+.file-btn{
+  background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+  padding: 14px; cursor: pointer; transition: all 0.2s ease; text-align: left;
+}
+.file-btn:hover{
+  transform: translateY(-3px); border-color: var(--accent);
+  box-shadow: 0 6px 20px rgba(168,181,255,0.15);
+}
+.file-btn.disabled{opacity: 0.4; cursor: not-allowed;}
+.file-name{font-size: 0.95rem; margin-bottom: 6px}
+.file-progress{font-size: 0.85rem; color: var(--muted)}
+.progress-bar-mini{
+  height: 4px; background: var(--border); border-radius: 999px; overflow: hidden; margin-top: 6px;
+}
+.progress-fill{
+  height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  width: 0%; transition: width 0.3s ease;
+}
+
+/* Quiz screen */
+.quiz-header{
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 20px; flex-wrap: wrap; gap: 12px;
+}
+.progress{
+  background: var(--card-2); border-radius: 999px; height: 8px;
+  overflow: hidden; flex: 1; min-width: 120px;
+}
+.progress-bar{
+  height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  width: 0%; transition: width 0.3s ease;
+}
+.question-counter{color: var(--muted); font-size: 0.95rem;}
+
+.question{font-size: 1.15rem; margin-bottom: 20px; font-weight: 500;}
+
+.options{display: grid; gap: 12px;}
+.option{
+  background: var(--card-2); border: 1px solid var(--border); border-radius: 12px;
+  padding: 14px 16px; cursor: pointer; transition: all 0.2s ease;
+}
+.option:hover:not(.disabled){border-color: var(--accent); background: #343345;}
+.option.selected{border-color: var(--accent); background: rgba(168,181,255,0.1);}
+.option.correct{border-color: var(--correct); background: rgba(163,217,165,0.15);}
+.option.wrong{border-color: var(--wrong); background: rgba(242,166,166,0.15);}
+.option.disabled{cursor: not-allowed; opacity: 0.8}
+
+.feedback{margin-top: 16px; padding: 14px; border-radius: 12px; display: none;}
+.feedback.show{display: block}
+.feedback.correct{background: rgba(163,217,165,0.12); border: 1px solid var(--correct);}
+.feedback.wrong{background: rgba(242,166,166,0.12); border: 1px solid var(--wrong);}
+
+.controls{display: flex; justify-content: space-between; margin-top: 24px; gap: 12px;}
+button{
+  background: var(--accent); color: #1b1a22; border: none; border-radius: 10px;
+  padding: 12px 20px; font-weight: 600; cursor: pointer; transition: all 0.2s ease;
+  font-size: 0.95rem;
+}
+button:hover:not(:disabled){filter: brightness(1.1); transform: translateY(-2px);}
+button:disabled{opacity: 0.5; cursor: not-allowed;}
+button.secondary{background: var(--card-2); color: var(--text); border: 1px solid var(--border);}
+button.danger{background: var(--wrong); color: #1b1a22;}
+
+/* Results screen */
+.result-header{text-align: center; margin-bottom: 24px;}
+.score{
+  font-size: 3rem; font-weight: 700;
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+.wrong-list{margin-top: 24px;}
+.wrong-item{
+  background: var(--card-2); border-left: 4px solid var(--wrong);
+  padding: 16px; margin-bottom: 12px; border-radius: 10px;
+}
+.wrong-item h4{margin-bottom: 8px}
+
+.hidden{display: none}
+
+@media (max-width: 600px){
+  body{padding: 14px}
+  header h1{font-size: 1.8rem}
+ .card{padding: 18px}
+ .question{font-size: 1.05rem}
+  button{flex: 1}
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- HOME SCREEN -->
+  <div id="home">
+    <header>
+      <h1>🧠 Civil Service Exam</h1>
+      <p>Pick a file under any section.</p>
+    </header>
+
+    <div class="card">
+      <div class="top-controls">
+        <h2>📝 Choose a File</h2>
+        <div class="toggle-wrap">
+          <span>🔀 Shuffle Questions</span>
+          <div class="toggle" id="shuffleToggle"></div>
+        </div>
+      </div>
+      <div class="sections" id="sections"></div>
+    </div>
+  </div>
+
+  <!-- QUIZ SCREEN -->
+  <div id="quiz" class="hidden">
+    <div class="card">
+      <div class="quiz-header">
+        <div class="question-counter" id="counter">Question 1 of 10</div>
+        <div class="progress"><div class="progress-bar" id="progress"></div></div>
+        <button class="secondary" onclick="goHome()">🏠 Home</button>
+      </div>
+
+      <div class="question" id="question"></div>
+      <div class="options" id="options"></div>
+      <div class="feedback" id="feedback"></div>
+
+      <div class="controls">
+        <button class="secondary" id="prevBtn" onclick="prevQuestion()">⬅️ Previous</button>
+        <button class="danger" onclick="resetProgress()">🗑️ Reset</button>
+        <button id="nextBtn" onclick="nextQuestion()" disabled>Next ➡️</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- RESULTS SCREEN -->
+  <div id="result" class="hidden">
+    <div class="card">
+      <div class="result-header">
+        <h2>🎉 Exam Complete!</h2>
+        <div class="score" id="score">0/0</div>
+        <p id="percentage">0%</p>
+      </div>
+
+      <div class="controls">
+        <button class="secondary" onclick="goHome()">🏠 Back to Home</button>
+        <button onclick="restartQuiz()">🔄 Retake Quiz</button>
+      </div>
+
+      <div class="wrong-list" id="wrongList"></div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+const FILES = {
+  analytical: {
+    name: "🔍 Analytical Ability",
+    desc: "Logic, patterns, syllogisms, series",
+    files: [
+      {name: "analytical_set1", file: "analytical.json"},
+      {name: "analytical_set2", file: "analset2.json"},
+    ]
+  },
+  verbal: {
+    name: "💬 Verbal Ability",
+    desc: "Vocabulary, grammar, reading comprehension",
+    files: [
+      {name: "verbal_set1", file: "vocabulary.json"},
+      {name: "verbal_set2", file: "verb.json"},
+    ]
+  },
+  numerical: {
+    name: "🔢 Numerical Ability",
+    desc: "Math, word problems, data interpretation",
+    files: [
+      {name: "numerical_set1", file: "numerical.json"},
+      {name: "numerical_set2", file: "numerical_set2.json"},
+    ]
+  },
+  general: {
+    name: "🌏 General Information",
+    desc: "PH Constitution, history, current events",
+    files: [
+      {name: "1987_pc", file: "1987pc.json"},
+      {name: "coc_1", file: "coc1.json"},
+    ]
+  },
+   universal: {
+    name: "🔢 Analytical, Numerical, Verbal, and General",
+    desc: "All are mixed together",
+    files: [
+      {name: "set_1", file: "q2.json"},
+      {name: "set_2", file: "q3.json"},
+      {name: "set_3", file: "questions.json"},
+    ]
+  },
+};
+
+let questions = [];
+let currentIndex = 0;
+let userAnswers = [];
+let score = 0;
+let shuffleOn = false;
+let currentFile = '';
+
+const homeScreen = document.getElementById('home');
+const quizScreen = document.getElementById('quiz');
+const resultScreen = document.getElementById('result');
+const sectionsDiv = document.getElementById('sections');
+const shuffleToggle = document.getElementById('shuffleToggle');
+
+shuffleToggle.addEventListener('click', () => {
+  shuffleOn =!shuffleOn;
+  shuffleToggle.classList.toggle('active');
+  localStorage.setItem('cse_shuffle', shuffleOn);
+});
+
+// Load shuffle state
+shuffleOn = localStorage.getItem('cse_shuffle') === 'true';
+if(shuffleOn) shuffleToggle.classList.add('active');
+
+function renderHome(){
+  sectionsDiv.innerHTML = '';
+  for(const key in FILES){
+    const sec = FILES[key];
+    const block = document.createElement('div');
+    block.className = 'section-block';
+    block.innerHTML = `<h2>${sec.name}</h2><p>${sec.desc}</p><div class="file-grid" id="${key}-grid"></div>`;
+    sectionsDiv.appendChild(block);
+
+    const grid = block.querySelector(`#${key}-grid`);
+    sec.files.forEach(f => {
+      const saved = getSave(f.file);
+      const progressPct = saved.total > 0? Math.round((saved.answered / saved.total) * 100) : 0;
+
+      const btn = document.createElement('div');
+      btn.className = 'file-btn';
+      btn.innerHTML = `
+        <div class="file-name">📄 ${f.name}</div>
+        <div class="file-progress">
+          ${saved.answered > 0? `Progress: ${saved.answered}/${saved.total} • Score: ${saved.score}/${saved.answered}` : 'Not started yet'}
+        </div>
+        <div class="progress-bar-mini">
+          <div class="progress-fill" style="width: ${progressPct}%"></div>
+        </div>
+      `;
+      btn.onclick = () => loadAndStart(f.file);
+      grid.appendChild(btn);
+    });
+
+  }
+}
+
+function getSave(file){
+  const data = localStorage.getItem(`cse_save_${file}`);
+  return data? JSON.parse(data) : {answers: [], score: 0, index: 0, answered: 0, total: 0, completed: false};
+}
+
+function saveProgress(){
+  const saveData = {
+    answers: userAnswers,
+    score: score,
+    index: currentIndex,
+    answered: userAnswers.filter(a => a!== null).length,
+    total: questions.length,
+    completed: currentIndex >= questions.length - 1 && userAnswers[currentIndex]!== null
+  };
+  localStorage.setItem(`cse_save_${currentFile}`, JSON.stringify(saveData));
+}
+
+async function loadAndStart(file){
+  currentFile = file;
+  try{
+    const res = await fetch(file);
+    if(!res.ok) throw new Error('File not found');
+    questions = await res.json();
+
+    const saved = getSave(file);
+
+    if(shuffleOn){
+      questions = shuffleArray(questions);
+    }
+
+    // Resume or start fresh
+    if(saved.answered > 0 &&!saved.completed){
+      if(confirm(`Resume where you left off? \nProgress: ${saved.answered}/${saved.total}\nScore: ${saved.score}/${saved.answered}\n\nCancel to start over.`)){
+        userAnswers = saved.answers;
+        score = saved.score;
+        currentIndex = saved.index;
+      }else{
+        resetSave(file);
+      }
+    }else if(saved.completed){
+      if(confirm(`You finished this set!\nScore: ${saved.score}/${saved.total}\n\nRetake it?`)){
+        resetSave(file);
+      }else{
+        userAnswers = saved.answers;
+        score = saved.score;
+        currentIndex = saved.index;
+      }
+    }else{
+      userAnswers = new Array(questions.length).fill(null);
+      score = 0;
+      currentIndex = 0;
+    }
+
+    startQuiz();
+  }catch(err){
+    alert('⚠️ Failed to load ' + file + '. Make sure it exists in the same folder.');
+    console.error(err);
+  }
+}
+
+function resetSave(file){
+  userAnswers = new Array(questions.length).fill(null);
+  score = 0;
+  currentIndex = 0;
+  localStorage.removeItem(`cse_save_${file}`);
+}
+
+function shuffleArray(arr){
+  let array = [...arr];
+  for(let i = array.length - 1; i > 0; i--){
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+function startQuiz(){
+  homeScreen.classList.add('hidden');
+  resultScreen.classList.add('hidden');
+  quizScreen.classList.remove('hidden');
+  renderQuestion();
+}
+
+function renderQuestion(){
+  const q = questions[currentIndex];
+  document.getElementById('counter').textContent = `Question ${currentIndex + 1} of ${questions.length}`;
+  document.getElementById('progress').style.width = ((currentIndex) / questions.length) * 100 + '%';
+
+  document.getElementById('question').textContent = q.question;
+
+  const optionsDiv = document.getElementById('options');
+  optionsDiv.innerHTML = '';
+
+  q.options.forEach((opt, i) => {
+    const div = document.createElement('div');
+    div.className = 'option';
+    div.textContent = opt;
+    div.onclick = () => selectAnswer(i, div);
+
+    if(userAnswers[currentIndex]!== null){
+      div.classList.add('disabled');
+      if(i === q.answer) div.classList.add('correct');
+      if(i === userAnswers[currentIndex] && i!== q.answer) div.classList.add('wrong');
+    }
+    optionsDiv.appendChild(div);
+  });
+
+  const feedback = document.getElementById('feedback');
+  if(userAnswers[currentIndex]!== null){
+    feedback.classList.add('show');
+    if(userAnswers[currentIndex] === q.answer){
+      feedback.className = 'feedback show correct';
+      feedback.innerHTML = '✅ Correct! <br>' + q.explanation;
+    }else{
+      feedback.className = 'feedback show wrong';
+      feedback.innerHTML = '❌ Wrong! <br>' + q.explanation;
+    }
+    document.getElementById('nextBtn').disabled = false;
+  }else{
+    feedback.classList.remove('show');
+    document.getElementById('nextBtn').disabled = true;
+  }
+
+  document.getElementById('prevBtn').disabled = currentIndex === 0;
+}
+
+function selectAnswer(index){
+  if(userAnswers[currentIndex]!== null) return;
+  userAnswers[currentIndex] = index;
+  const correct = questions[currentIndex].answer;
+
+  document.querySelectorAll('.option').forEach((opt, i) => {
+    opt.classList.add('disabled');
+    if(i === correct) opt.classList.add('correct');
+    if(i === index && i!== correct) opt.classList.add('wrong');
+  });
+
+  if(index === correct) score++;
+
+  const feedback = document.getElementById('feedback');
+  feedback.classList.add('show');
+  if(index === correct){
+    feedback.className = 'feedback show correct';
+    feedback.innerHTML = '✅ Correct! <br>' + questions[currentIndex].explanation;
+  }else{
+    feedback.className = 'feedback show wrong';
+    feedback.innerHTML = '❌ Wrong! <br>' + questions[currentIndex].explanation;
+  }
+  document.getElementById('nextBtn').disabled = false;
+
+  saveProgress();
+}
+
+function nextQuestion(){
+  if(currentIndex < questions.length - 1){
+    currentIndex++;
+    renderQuestion();
+    saveProgress();
+  }else{
+    saveProgress();
+    showResults();
+  }
+}
+
+function prevQuestion(){
+  if(currentIndex > 0){
+    currentIndex--;
+    renderQuestion();
+  }
+}
+
+function showResults(){
+  quizScreen.classList.add('hidden');
+  resultScreen.classList.remove('hidden');
+
+  document.getElementById('score').textContent = `${score}/${questions.length}`;
+  const pct = Math.round((score / questions.length) * 100);
+  document.getElementById('percentage').textContent = `${pct}%`;
+
+  const wrongList = document.getElementById('wrongList');
+  wrongList.innerHTML = '';
+  questions.forEach((q, i) => {
+    if(userAnswers[i]!== q.answer && userAnswers[i]!== null){
+      const div = document.createElement('div');
+      div.className = 'wrong-item';
+      div.innerHTML = `
+        <h4>Q${i+1}: ${q.question}</h4>
+        <p><strong>Your answer:</strong> ${q.options[userAnswers[i]]?? 'No answer'}</p>
+        <p><strong>Correct answer:</strong> ${q.options[q.answer]}</p>
+        <p><strong>Explanation:</strong> ${q.explanation?? 'No explanation'}</p>
+      `;
+      wrongList.appendChild(div);
+    }
+  });
+
+  if(wrongList.children.length === 0){
+    wrongList.innerHTML = '<p style="text-align:center; color:var(--correct)">🎯 Perfect score! No wrong answers.</p>';
+  }
+}
+
+function goHome(){
+  quizScreen.classList.add('hidden');
+  resultScreen.classList.add('hidden');
+  homeScreen.classList.remove('hidden');
+  renderHome(); // refresh progress display
+}
+
+function restartQuiz(){
+  resetSave(currentFile);
+  startQuiz();
+}
+
+function resetProgress(){
+  if(confirm('Reset all progress for this set? This cannot be undone.')){
+    resetSave(currentFile);
+    goHome();
+  }
+}
+
+renderHome();
+</script>
+</body>
+</html>

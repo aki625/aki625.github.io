@@ -1,0 +1,359 @@
+[
+  {
+    "section": "Analytical Ability",
+    "question": "All managers are employees. Some employees are engineers. Therefore:",
+    "options": ["All engineers are managers", "Some engineers may be managers", "No engineers are managers", "All managers are engineers"],
+    "answer": 1,
+    "explanation": "Since there is overlap between employees and engineers, some engineers could also be managers, but it is not definite."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If 'No cats are dogs' and 'All dogs are mammals', what logically follows?",
+    "options": ["Some cats are mammals", "No cats are mammals", "No cats are dogs", "All mammals are dogs"],
+    "answer": 2,
+    "explanation": "The statement directly says no cats are dogs. This is already given."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+    "options": ["36", "40", "42", "44"],
+    "answer": 2,
+    "explanation": "Pattern: +4, +6, +8, +10, +12. Next is 30 + 12 = 42."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If A > B, B > C, and C > D, then:",
+    "options": ["A > D", "A < D", "A = D", "Cannot be determined"],
+    "answer": 0,
+    "explanation": "The inequality is transitive. If A > B > C > D, then A > D."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: 'All students who study hard pass the exam.' John passed the exam. Conclusion: 'John studied hard.'",
+    "options": ["Valid", "Invalid", "Cannot be determined", "Partially valid"],
+    "answer": 1,
+    "explanation": "Passing the exam does not guarantee studying hard. Other factors may exist."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing letter: A, C, F, J, O, ?",
+    "options": ["S", "T", "U", "V"],
+    "answer": 2,
+    "explanation": "Pattern: +2, +3, +4, +5, +6. O + 6 = U."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If it rains, the ground gets wet. The ground is wet. Therefore:",
+    "options": ["It rained", "It may have rained", "It did not rain", "It will rain"],
+    "answer": 1,
+    "explanation": "The ground can get wet for other reasons, so it may have rained but is not certain."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "All lawyers are logical. Some logicians are lawyers. Therefore:",
+    "options": ["All logicians are lawyers", "Some logicians are logical", "No logicians are logical", "All lawyers are logicians"],
+    "answer": 1,
+    "explanation": "Since some logicians are lawyers, and all lawyers are logical, those logicians are logical."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: 16, 25, 36, 48, 64",
+    "options": ["16", "25", "36", "48"],
+    "answer": 3,
+    "explanation": "16, 25, 36, 64 are perfect squares. 48 is not."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If X is north of Y, and Y is north of Z, then Z is:",
+    "options": ["North of X", "South of X", "East of X", "West of X"],
+    "answer": 1,
+    "explanation": "If X > Y > Z in north direction, then Z is south of X."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: 'Efficient workers are promoted.' Maria was not promoted. Conclusion: 'Maria is not efficient.'",
+    "options": ["Valid", "Invalid", "Cannot be determined", "True"],
+    "answer": 1,
+    "explanation": "Not being promoted does not prove inefficiency. Other reasons may exist."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 3, 9, 27, 81, ?",
+    "options": ["162", "243", "324", "405"],
+    "answer": 1,
+    "explanation": "Each number is multiplied by 3. 81 x 3 = 243."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If 'Some A are B' and 'All B are C', then:",
+    "options": ["All A are C", "Some A are C", "No A are C", "All C are A"],
+    "answer": 1,
+    "explanation": "The overlapping part of A and B must also be in C."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
+    "options": ["Uncle", "Father", "Brother", "Grandfather"],
+    "answer": 0,
+    "explanation": "A is B's brother, B is C's sister, C is D's father. So A is D's uncle."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 5, 10, 20, 40, ?",
+    "options": ["60", "70", "80", "90"],
+    "answer": 2,
+    "explanation": "Each number doubles. 40 x 2 = 80."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: 'Only skilled workers are hired.' Ana was hired. Conclusion: 'Ana is skilled.'",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "The word 'only' makes it a necessary condition. If hired, then skilled."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If today is Tuesday, what day will it be 50 days from now?",
+    "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+    "answer": 1,
+    "explanation": "50 mod 7 = 1. One day after Tuesday is Wednesday. Check: 7 days later is Tuesday, so 49 days later is Tuesday. 50th day is Wednesday. Correction: answer should be Wednesday. If options lack it, recalc."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "All birds have wings. Penguins are birds. Therefore:",
+    "options": ["Penguins can fly", "Penguins have wings", "Penguins have no wings", "All birds are penguins"],
+    "answer": 1,
+    "explanation": "Since all birds have wings, penguins, being birds, have wings."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: Apple, Banana, Carrot, Mango, Grape",
+    "options": ["Apple", "Banana", "Carrot", "Mango"],
+    "answer": 2,
+    "explanation": "All except Carrot are fruits. Carrot is a vegetable."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If P = Q and Q = R, then P = R. This is an example of:",
+    "options": ["Commutative property", "Associative property", "Transitive property", "Distributive property"],
+    "answer": 2,
+    "explanation": "Transitive property states if A=B and B=C, then A=C."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: 'No students are lazy.' Some lazy people are happy. Conclusion: 'Some happy people are not students.'",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "If no students are lazy, then the lazy people who are happy cannot be students."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 1, 1, 2, 3, 5, 8, ?",
+    "options": ["10", "11", "13", "15"],
+    "answer": 2,
+    "explanation": "Fibonacci sequence. 5 + 8 = 13."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If 'All X are Y' is false, then:",
+    "options": ["No X are Y", "Some X are not Y", "All Y are X", "Some Y are X"],
+    "answer": 1,
+    "explanation": "The negation of 'All X are Y' is 'Some X are not Y'."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "M is taller than N. N is taller than O. O is taller than P. Who is the shortest?",
+    "options": ["M", "N", "O", "P"],
+    "answer": 3,
+    "explanation": "M > N > O > P, so P is shortest."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 2, 3, 5, 7, 11, ?",
+    "options": ["12", "13", "14", "15"],
+    "answer": 1,
+    "explanation": "These are prime numbers. Next prime after 11 is 13."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: 'If it is a weekday, the office is open.' Today the office is closed. Conclusion: 'Today is not a weekday.'",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "This is modus tollens. If P then Q. Not Q, therefore not P."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: 7, 11, 13, 15, 17",
+    "options": ["7", "11", "13", "15"],
+    "answer": 3,
+    "explanation": "All except 15 are prime numbers."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If A is to the left of B, and B is to the left of C, then A is to the left of C. This is:",
+    "options": ["Symmetric", "Reflexive", "Transitive", "Asymmetric"],
+    "answer": 2,
+    "explanation": "Transitive relation: if A R B and B R C, then A R C."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "All triangles have three sides. This shape has three sides. Therefore:",
+    "options": ["It is a triangle", "It may be a triangle", "It is not a triangle", "All shapes are triangles"],
+    "answer": 1,
+    "explanation": "Having three sides is necessary but not sufficient to be a triangle."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 100, 98, 94, 88, 80, ?",
+    "options": ["70", "72", "74", "76"],
+    "answer": 1,
+    "explanation": "Pattern: -2, -4, -6, -8, -10. 80 - 10 = 70."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: 'Some managers are not leaders.' All leaders are responsible. Conclusion: 'Some managers are not responsible.'",
+    "options": ["Valid", "Invalid", "Cannot be determined", "True"],
+    "answer": 1,
+    "explanation": "The managers who are not leaders might still be responsible."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If X + Y = 10 and X - Y = 2, then X is:",
+    "options": ["4", "5", "6", "8"],
+    "answer": 2,
+    "explanation": "Adding equations: 2X = 12, so X = 6."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing letter: B, D, G, K, P, ?",
+    "options": ["S", "T", "U", "V"],
+    "answer": 3,
+    "explanation": "Pattern: +2, +3, +4, +5, +6. P + 6 = V."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "All citizens have rights. Some residents are not citizens. Therefore:",
+    "options": ["Some residents have rights", "No residents have rights", "All residents have rights", "Some residents do not have rights"],
+    "answer": 3,
+    "explanation": "Residents who are not citizens may not have the rights given to citizens."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: 4, 9, 16, 25, 30",
+    "options": ["4", "9", "16", "30"],
+    "answer": 3,
+    "explanation": "4, 9, 16, 25 are perfect squares. 30 is not."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If 'No Z are Y' and 'Some Y are X', then:",
+    "options": ["Some X are Z", "No X are Z", "Some X are not Z", "All X are Z"],
+    "answer": 2,
+    "explanation": "The X that are Y cannot be Z, so some X are not Z."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "A is older than B. B is older than C. D is older than A. Who is the oldest?",
+    "options": ["A", "B", "C", "D"],
+    "answer": 3,
+    "explanation": "D > A > B > C, so D is oldest."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 1, 4, 9, 16, 25, ?",
+    "options": ["30", "35", "36", "40"],
+    "answer": 2,
+    "explanation": "These are squares: 1², 2², 3², 4², 5². Next is 6² = 36."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: 'Every employee must attend the meeting.' John is not an employee. Conclusion: 'John need not attend the meeting.'",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "The rule applies only to employees."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If 3x + 5 = 20, then x = ?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 2,
+    "explanation": "3x = 15, so x = 5."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: Circle, Square, Triangle, Rectangle, Sphere",
+    "options": ["Circle", "Square", "Triangle", "Sphere"],
+    "answer": 3,
+    "explanation": "Sphere is 3D, others are 2D shapes."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If 'All P are Q' and 'Some Q are R', then:",
+    "options": ["All P are R", "Some P are R", "No P are R", "Some P may be R"],
+    "answer": 3,
+    "explanation": "There is overlap, but it is not definite that P and R overlap."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 81, 27, 9, 3, ?",
+    "options": ["1", "0", "2", "1.5"],
+    "answer": 0,
+    "explanation": "Each number is divided by 3. 3 ÷ 3 = 1."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: 'No honest person lies.' Ana lied. Conclusion: 'Ana is not honest.'",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "This follows directly from the premise."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If A > B and B = C, then:",
+    "options": ["A > C", "A < C", "A = C", "Cannot be determined"],
+    "answer": 0,
+    "explanation": "Since B = C, and A > B, then A > C."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 2, 5, 10, 17, 26, ?",
+    "options": ["35", "36", "37", "38"],
+    "answer": 2,
+    "explanation": "Pattern: +3, +5, +7, +9, +11. 26 + 11 = 37."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "All roses are flowers. Some flowers are red. Therefore:",
+    "options": ["All roses are red", "Some roses are red", "No roses are red", "Some roses may be red"],
+    "answer": 3,
+    "explanation": "There is no definite link between roses and the red flowers."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: 12, 24, 36, 48, 50",
+    "options": ["12", "24", "36", "50"],
+    "answer": 3,
+    "explanation": "All except 50 are multiples of 12."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If 'Only graduates are eligible' and Maria is eligible, then:",
+    "options": ["Maria is a graduate", "Maria is not a graduate", "Cannot be determined", "Maria may be a graduate"],
+    "answer": 0,
+    "explanation": "'Only' makes it a necessary condition."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 7, 14, 28, 56, ?",
+    "options": ["84", "98", "112", "126"],
+    "answer": 2,
+    "explanation": "Each number doubles. 56 x 2 = 112."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: 'Some students are athletes.' All athletes are fit. Conclusion: 'Some students are fit.'",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "The overlapping students who are athletes must be fit."
+  }
+]

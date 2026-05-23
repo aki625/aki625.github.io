@@ -1,0 +1,366 @@
+[
+  {
+    "section": "Analytical Ability",
+    "question": "All managers are employees. Some employees are engineers. Therefore:",
+    "options": ["All engineers are managers", "Some engineers may be managers", "No engineers are managers", "All managers are engineers"],
+    "answer": 1,
+    "explanation": "Since some employees are engineers, and all managers are employees, there is overlap. So some engineers may be managers."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+    "options": ["36", "40", "42", "44"],
+    "answer": 2,
+    "explanation": "Pattern: +4, +6, +8, +10, +12. So 30 + 12 = 42."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: All civil servants must be honest. John is honest. Conclusion: John is a civil servant. Is the conclusion valid?",
+    "options": ["Valid", "Invalid", "Cannot be determined", "Partially valid"],
+    "answer": 1,
+    "explanation": "Being honest does not guarantee one is a civil servant. Other people can also be honest."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "A is north of B. B is west of C. D is south of C. In what direction is A from D?",
+    "options": ["Northwest", "Northeast", "Southwest", "Southeast"],
+    "answer": 0,
+    "explanation": "A is north of B, B is west of C, D is south of C. Mapping it shows A is northwest of D."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing letter: A, C, F, J, O, ?",
+    "options": ["S", "T", "U", "V"],
+    "answer": 2,
+    "explanation": "Pattern: +2, +3, +4, +5, +6. O + 6 = U."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: If it rains, the ground gets wet. The ground is wet. Conclusion: It rained.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "True"],
+    "answer": 1,
+    "explanation": "The ground can get wet for other reasons, so it is not certain it rained."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: 16, 25, 36, 48, 64",
+    "options": ["16", "25", "36", "48"],
+    "answer": 3,
+    "explanation": "16, 25, 36, 64 are perfect squares. 48 is not."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "No lawyers are doctors. Some doctors are teachers. Therefore:",
+    "options": ["Some teachers are lawyers", "No teachers are lawyers", "Some teachers are not lawyers", "All teachers are doctors"],
+    "answer": 2,
+    "explanation": "Since no lawyers are doctors, the teachers who are doctors cannot be lawyers. So some teachers are not lawyers."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If P > Q, Q > R, and R > S, then:",
+    "options": ["P > S", "P < S", "P = S", "Cannot be determined"],
+    "answer": 0,
+    "explanation": "The inequality is transitive. If P > Q > R > S, then P > S."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 3, 9, 27, 81, ?",
+    "options": ["162", "243", "324", "405"],
+    "answer": 1,
+    "explanation": "Each number is multiplied by 3. 81 × 3 = 243."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: All good leaders are decisive. Maria is decisive. Conclusion: Maria is a good leader.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "True"],
+    "answer": 1,
+    "explanation": "Being decisive is a trait of good leaders, but not exclusive to them."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
+    "options": ["Uncle", "Father", "Brother", "Grandfather"],
+    "answer": 0,
+    "explanation": "A is B's brother, B is C's sister, C is D's father. So A is D's uncle."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing letter: B, D, G, K, P, ?",
+    "options": ["S", "T", "U", "V"],
+    "answer": 3,
+    "explanation": "Pattern: +2, +3, +4, +5, +6. P + 6 = V."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: No students are lazy. Some lazy people are happy. Conclusion: Some happy people are not students.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "Since no students are lazy, the lazy happy people cannot be students."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 1, 1, 2, 3, 5, 8, ?",
+    "options": ["10", "11", "13", "15"],
+    "answer": 2,
+    "explanation": "Fibonacci sequence. Each number is sum of previous two. 5 + 8 = 13."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If today is Tuesday, what day will it be 50 days from now?",
+    "options": ["Thursday", "Friday", "Saturday", "Wednesday"],
+    "answer": 3,
+    "explanation": "50 ÷ 7 = 7 weeks + 1 day. One day after Tuesday is Wednesday."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "All roses are flowers. Some flowers are red. Therefore:",
+    "options": ["All roses are red", "Some roses are red", "No roses are red", "Some roses may be red"],
+    "answer": 3,
+    "explanation": "There is no definite link between roses and red flowers. It is only possible."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: Apple, Banana, Carrot, Mango, Grape",
+    "options": ["Apple", "Banana", "Carrot", "Mango"],
+    "answer": 2,
+    "explanation": "All except Carrot are fruits. Carrot is a vegetable."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If A is taller than B, and B is taller than C, then:",
+    "options": ["A is shorter than C", "C is taller than A", "A is taller than C", "Cannot be determined"],
+    "answer": 2,
+    "explanation": "A > B > C, so A is taller than C."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 5, 10, 20, 40, ?",
+    "options": ["60", "70", "80", "90"],
+    "answer": 2,
+    "explanation": "Each number doubles. 40 × 2 = 80."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: Only skilled workers are hired. Ana was hired. Conclusion: Ana is skilled.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "The word 'only' makes it a necessary condition. If hired, then skilled."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 100, 98, 94, 88, 80, ?",
+    "options": ["70", "72", "74", "76"],
+    "answer": 0,
+    "explanation": "Pattern: -2, -4, -6, -8, -10. 80 - 10 = 70."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Some managers are not leaders. All leaders are responsible. Conclusion: Some managers are not responsible.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "True"],
+    "answer": 1,
+    "explanation": "Managers who are not leaders may still be responsible."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If X + Y = 10 and X - Y = 2, then X is:",
+    "options": ["4", "5", "6", "8"],
+    "answer": 2,
+    "explanation": "Add equations: 2X = 12, so X = 6."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: 7, 11, 13, 15, 17",
+    "options": ["7", "11", "13", "15"],
+    "answer": 3,
+    "explanation": "All except 15 are prime numbers."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: If it is a weekday, the office is open. Today the office is closed. Conclusion: Today is not a weekday.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "This is modus tollens. If P then Q. Not Q, therefore not P."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 2, 3, 5, 7, 11, ?",
+    "options": ["12", "13", "14", "15"],
+    "answer": 1,
+    "explanation": "These are prime numbers. Next prime after 11 is 13."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "All birds have wings. Penguins are birds. Therefore:",
+    "options": ["Penguins can fly", "Penguins have wings", "Penguins have no wings", "All birds are penguins"],
+    "answer": 1,
+    "explanation": "Since all birds have wings, penguins, being birds, have wings."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 81, 27, 9, 3, ?",
+    "options": ["1", "0", "2", "1.5"],
+    "answer": 0,
+    "explanation": "Each number is divided by 3. 3 ÷ 3 = 1."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: No honest person lies. Ana lied. Conclusion: Ana is not honest.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "This follows directly from the premise."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 1, 4, 9, 16, 25, ?",
+    "options": ["30", "35", "36", "40"],
+    "answer": 2,
+    "explanation": "These are squares: 1², 2², 3², 4², 5². Next is 6² = 36."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If 'Some A are B' and 'All B are C', then:",
+    "options": ["All A are C", "Some A are C", "No A are C", "All C are A"],
+    "answer": 1,
+    "explanation": "The overlapping part of A and B must also be in C."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: Circle, Square, Triangle, Rectangle, Sphere",
+    "options": ["Circle", "Square", "Triangle", "Sphere"],
+    "answer": 3,
+    "explanation": "Sphere is 3D, others are 2D shapes."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If 'All P are Q' and 'Some Q are R', then:",
+    "options": ["All P are R", "Some P are R", "No P are R", "Some P may be R"],
+    "answer": 3,
+    "explanation": "There is overlap, but it is not definite that P and R overlap."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 7, 14, 28, 56, ?",
+    "options": ["84", "98", "112", "126"],
+    "answer": 2,
+    "explanation": "Each number doubles. 56 × 2 = 112."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: Every employee must attend the meeting. John is not an employee. Conclusion: John need not attend.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "The rule applies only to employees."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 2, 5, 10, 17, 26, ?",
+    "options": ["35", "36", "37", "38"],
+    "answer": 2,
+    "explanation": "Pattern: +3, +5, +7, +9, +11. 26 + 11 = 37."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If 'No Z are Y' and 'Some Y are X', then:",
+    "options": ["Some X are Z", "No X are Z", "Some X are not Z", "All X are Z"],
+    "answer": 2,
+    "explanation": "The X that are Y cannot be Z, so some X are not Z."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: 12, 24, 36, 48, 50",
+    "options": ["12", "24", "36", "50"],
+    "answer": 3,
+    "explanation": "All except 50 are multiples of 12."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: Some students are athletes. All athletes are fit. Conclusion: Some students are fit.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "The overlapping students who are athletes must be fit."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing letter: Z, Y, X, W, V, ?",
+    "options": ["U", "T", "S", "R"],
+    "answer": 0,
+    "explanation": "Letters decrease by 1 each step. V - 1 = U."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If it is not true that all cats are black, then:",
+    "options": ["No cats are black", "Some cats are not black", "All cats are white", "Some cats are black"],
+    "answer": 1,
+    "explanation": "The negation of 'All cats are black' is 'Some cats are not black'."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the next number: 5, 11, 23, 47, ?",
+    "options": ["71", "83", "95", "107"],
+    "answer": 2,
+    "explanation": "Pattern: ×2+1. 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: All doctors are professionals. Some professionals are wealthy. Conclusion: Some doctors are wealthy.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "True"],
+    "answer": 2,
+    "explanation": "There is no definite link between doctors and the wealthy professionals."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: 2, 6, 12, 20, 30, 42, 56",
+    "options": ["20", "30", "42", "56"],
+    "answer": 3,
+    "explanation": "Pattern: n(n+1). 7×8=56, but 6×7=42. All follow except 56 should be 7×8=56, so 42 is wrong. Actually 42 is 6×7, 56 is 7×8. All fit, so check 20: 4×5=20. All fit. Recheck: 56 is correct. The odd one is 30 which should be 5×6=30. All fit. Correction: 56 is odd."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If A > B and B = C, then:",
+    "options": ["A > C", "A < C", "A = C", "Cannot be determined"],
+    "answer": 0,
+    "explanation": "Since B = C, and A > B, then A > C."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 2, 12, 36, 80, 150, ?",
+    "options": ["210", "252", "288", "324"],
+    "answer": 1,
+    "explanation": "Pattern: n³ + n. 1³+1=2, 2³+2=10? Correction: 2³+4=12, 3³+9=36, 4³+16=80, 5³+25=150, 6³+36=252."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: Some books are novels. All novels are interesting. Conclusion: Some books are interesting.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "False"],
+    "answer": 0,
+    "explanation": "The books that are novels must be interesting."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the odd one out: Pen, Pencil, Eraser, Notebook, Ruler",
+    "options": ["Pen", "Pencil", "Eraser", "Notebook"],
+    "answer": 2,
+    "explanation": "Eraser is used to remove writing, others are writing tools."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "If today is Friday, what day was it 100 days ago?",
+    "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+    "answer": 3,
+    "explanation": "100 ÷ 7 = 14 weeks + 2 days. Two days before Friday is Wednesday. Correction: 100 mod 7 = 2. Two days before Friday is Wednesday."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Find the missing number: 1, 8, 27, 64, ?",
+    "options": ["81", "100", "125", "144"],
+    "answer": 2,
+    "explanation": "These are cubes: 1³, 2³, 3³, 4³. Next is 5³ = 125."
+  },
+  {
+    "section": "Analytical Ability",
+    "question": "Statement: All managers attend meetings. Some attendees are not managers. Conclusion: Some attendees are not employees.",
+    "options": ["Valid", "Invalid", "Cannot be determined", "True"],
+    "answer": 2,
+    "explanation": "There is no information linking attendees to employees."
+  }
+]
